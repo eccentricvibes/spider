@@ -1,0 +1,582 @@
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
+{'title': 'gitbook使用mathjax|转载', 'article link': 'https://www.aiyc.top/1979.html', 'article description': '你好，我是悦创。 gitbook 官方已不再维护插件，mathjax 由于关闭了 c...'}
+{'title': 'GitBook使用教程', 'article link': 'https://www.aiyc.top/1947.html', 'article description': '你好，我是悦创。 详细的记录了一步步搭建自己的电子文档笔记 1. 环境搭建 1.1 ...'}
+{'title': '买不起MacBook，使用Windows 10配置zsh命令行做开发', 'article link': 'https://www.aiyc.top/1976.html', 'article description': '你好，我是悦创。 从苹果转过来的开发都会感觉 Windows 下的命令行真是难用，接...'}
+{'title': '一个项目push到多个远程Git仓库', 'article link': 'https://www.aiyc.top/1973.html', 'article description': '你好，我是悦创。 我创建了一个项目，然后通过下面的命令 push 到了 GitHub...'}
+{'title': '【久远讲算法①】什么是时间复杂度', 'article link': 'https://www.aiyc.top/1971.html', 'article description': '大家好 ，我是久远，今天开始，由我来给大家分享算法以及数据结构的相关知识。 什么是算...'}
+{'title': 'Windows下使用gitbook生成PDF文件', 'article link': 'https://www.aiyc.top/1969.html', 'article description': '你好，我是悦创。 最近，在搞 gitbook 的时候，生成 pdf 出现了问题。然后...'}
+{'title': 'python基础第一课', 'article link': 'https://www.aiyc.top/1968.html', 'article description': '第一课内容知重点识点回顾'}
+{'title': '08-如何从 Node.js 读取环境变量', 'article link': 'https://www.aiyc.top/1966.html', 'article description': '你好，我是悦创。 Node.js 的 process 核心模块提供了 env 属性，...'}
+{'title': '07-如何从 Node.js 程序退出', 'article link': 'https://www.aiyc.top/1964.html', 'article description': '你好，我是悦创。 有很多种方法可以终止 Node.js 应用程序。 当在控制台中运行...'}
+{'title': '06-从命令行运行 Node.js 脚本', 'article link': 'https://www.aiyc.top/1963.html', 'article description': '你好，我是悦创。 运行 Node.js 程序的常规方法是，运行全局可用的 node ...'}
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
+{'title': 'gitbook使用mathjax|转载', 'article link': 'https://www.aiyc.top/1979.html', 'article description': '你好，我是悦创。 gitbook 官方已不再维护插件，mathjax 由于关闭了 c...'}
+{'title': 'GitBook使用教程', 'article link': 'https://www.aiyc.top/1947.html', 'article description': '你好，我是悦创。 详细的记录了一步步搭建自己的电子文档笔记 1. 环境搭建 1.1 ...'}
+{'title': '买不起MacBook，使用Windows 10配置zsh命令行做开发', 'article link': 'https://www.aiyc.top/1976.html', 'article description': '你好，我是悦创。 从苹果转过来的开发都会感觉 Windows 下的命令行真是难用，接...'}
+{'title': '一个项目push到多个远程Git仓库', 'article link': 'https://www.aiyc.top/1973.html', 'article description': '你好，我是悦创。 我创建了一个项目，然后通过下面的命令 push 到了 GitHub...'}
+{'title': '【久远讲算法①】什么是时间复杂度', 'article link': 'https://www.aiyc.top/1971.html', 'article description': '大家好 ，我是久远，今天开始，由我来给大家分享算法以及数据结构的相关知识。 什么是算...'}
+{'title': 'Windows下使用gitbook生成PDF文件', 'article link': 'https://www.aiyc.top/1969.html', 'article description': '你好，我是悦创。 最近，在搞 gitbook 的时候，生成 pdf 出现了问题。然后...'}
+{'title': 'python基础第一课', 'article link': 'https://www.aiyc.top/1968.html', 'article description': '第一课内容知重点识点回顾'}
+{'title': '08-如何从 Node.js 读取环境变量', 'article link': 'https://www.aiyc.top/1966.html', 'article description': '你好，我是悦创。 Node.js 的 process 核心模块提供了 env 属性，...'}
+{'title': '07-如何从 Node.js 程序退出', 'article link': 'https://www.aiyc.top/1964.html', 'article description': '你好，我是悦创。 有很多种方法可以终止 Node.js 应用程序。 当在控制台中运行...'}
+{'title': '06-从命令行运行 Node.js 脚本', 'article link': 'https://www.aiyc.top/1963.html', 'article description': '你好，我是悦创。 运行 Node.js 程序的常规方法是，运行全局可用的 node ...'}
+{'title': '05-V8 JavaScript 引擎', 'article link': 'https://www.aiyc.top/1961.html', 'article description': '你好，我是悦创。 V8 是为 Google Chrome 提供支持的 JavaScr...'}
+{'title': '04-Node.js 与浏览器的区别', 'article link': 'https://www.aiyc.top/1959.html', 'article description': '你好，我是悦创。 浏览器和 Node.js 均使用 JavaScript 作为其编程...'}
+{'title': '03-使用 Node.js 需要了解多少 JavaScript', 'article link': 'https://www.aiyc.top/1957.html', 'article description': '你好，我是悦创。 你好，我是悦创。 既然在写 GitBook 的开发，用到 Node...'}
+{'title': '02-如何安装 Node.js', 'article link': 'https://www.aiyc.top/1955.html', 'article description': '你好，我是悦创。 Node.js 可以通过多种方式进行安装。 这篇文章重点介绍了最常...'}
+{'title': '01-Node.js 简史', 'article link': 'https://www.aiyc.top/1952.html', 'article description': '你好，我是悦创。 Node.js 诞生只有十一年。 相比之下，JavaScript ...'}
+{'title': '00-Node.js 简介', 'article link': 'https://www.aiyc.top/1951.html', 'article description': '你好，我是悦创。 Node.js 是一个开源与跨平台的 JavaScript 运行时...'}
+{'title': 'NVM 常用命令', 'article link': 'https://www.aiyc.top/1946.html', 'article description': '你好，我是悦创。 NVM 是什么？ NVM 是 NODE.JS 的版本管理工具，通过...'}
+{'title': 'Python3 assert（断言）', 'article link': 'https://www.aiyc.top/1942.html', 'article description': '你好，我是悦创。 Python assert（断言）用于判断一个表达式，在表达式条件...'}
+{'title': 'Python3 错误和异常', 'article link': 'https://www.aiyc.top/1941.html', 'article description': '你好，我是悦创。 作为 Python 初学者，在刚学习 Python 编程时，经常会...'}
+{'title': 'Basics of Non-Daemon Threads', 'article link': 'https://www.aiyc.top/1939.html', 'article description': 'In the world of multi-threading in python,...'}
+{'title': 'Python 万能代码模版：批量搞图，秀翻全场（上）', 'article link': 'https://www.aiyc.top/1938.html', 'article description': '你好，我是悦创。 前面我写了： Python 万能代码模版：爬虫代码篇:https:...'}
+{'title': '相机存储卡提示格式化——修复方法', 'article link': 'https://www.aiyc.top/1937.html', 'article description': '搬运工~ 首先声明一点，SD卡物理损坏不能搞好 你有没有遇到过手机提示“SD卡已损坏...'}
+{'title': '超星学习通~🚀刷课脚本插件【倍速播放，支持图片，填空题】', 'article link': 'https://www.aiyc.top/1935.html', 'article description': '// ==UserScript== // @name 超星学习通~🚀刷课脚本插件【倍...'}
+{'title': 'Python next() 函数', 'article link': 'https://www.aiyc.top/1931.html', 'article description': '你好，我是悦创。 描述 next() 返回迭代器的下一个项目。 next() 函数要...'}
+{'title': 'Multithreading with programs', 'article link': 'https://www.aiyc.top/1930.html', 'article description': 'Multithreading is a big concept when it co...'}
+{'title': '少儿编程一对一|Scratch-长期招收！', 'article link': 'https://www.aiyc.top/1928.html', 'article description': '课程简介 想让孩子学习少儿编程，又怕编程太难孩子学不会？其实，少儿编程的侧重点在于培...'}
+{'title': 'Python - OS Module', 'article link': 'https://www.aiyc.top/1925.html', 'article description': 'Hello, My name is aiyuechuang. It is possi...'}
+{'title': '数组转链表', 'article link': 'https://www.aiyc.top/1922.html', 'article description': '你好，我是悦创。 下面我逐步解释数组转链表的完整过程，结合刚才制作好的动画。首先解释...'}
+{'title': '一对一学员运势作业点评', 'article link': 'https://www.aiyc.top/1920.html', 'article description': "# gender=input('请输入您的性别:') # age=input('请输..."}
+{'title': 'Python os 模块详解', 'article link': 'https://www.aiyc.top/1914.html', 'article description': '你好，我是悦创。 此篇文章，是为了完善 Python 办公自动化的课程，有兴趣的报名...'}
+{'title': '编程一对一教学', 'article link': 'https://www.aiyc.top/1918.html', 'article description': '不限制年龄，各个年龄都教学过，18岁以上也可以！'}
+{'title': 'Python获取内存中的数据', 'article link': 'https://www.aiyc.top/1917.html', 'article description': '你好，我是悦创。 最近一对一学员问的问题： 在 c/c++ 中，通过&获取变...'}
+{'title': 'C++路径中“./”、“../”、“/”代表的含义', 'article link': 'https://www.aiyc.top/1916.html', 'article description': '你好，我是悦创。 最近，在为 Python 办公自动化课程备课，故需要整理一波这样的...'}
+{'title': "Python3知识点：相对路径 ‘’，‘/’，'./'，'../'", 'article link': 'https://www.aiyc.top/1915.html', 'article description': "你好，我是悦创。 '' ： 当前同级目录 '/' ：根目录 './' ：当前同级目录..."}
+{'title': 'Python 万能代码模版：自动办公，提升 X10 倍工作效率', 'article link': 'https://www.aiyc.top/1913.html', 'article description': '你好，我是悦创。 前面我写了： Python 万能代码模版：爬虫代码篇 Python...'}
+{'title': '01-选择属于自己的相机', 'article link': 'https://www.aiyc.top/1910.html', 'article description': '你好，我是悦创。 接下来，争取每周更新我学习的摄影笔记。把摄影学号，这些笔记仅供学习...'}
+{'title': 'Python 集合的特点|无序性', 'article link': 'https://www.aiyc.top/1908.html', 'article description': '你好，我是悦创。 一下是一对一学员笔记： AI悦创·推出辅导班啦，包括「Python...'}
+{'title': '如何将IPython的历史记录导出到.py文件中?', 'article link': 'https://www.aiyc.top/1907.html', 'article description': '你好，我是悦创。 经常给一对一学员上课的时候，会用到 IPython 来演示代码，毕...'}
+{'title': 'Alex Smith: An NFL quarterback on overcoming setbacks and self-doubt.txt', 'article link': 'https://www.aiyc.top/1906.html', 'article description': "I wake up in a hospital bed and I'm surrou..."}
+{'title': 'Python 万能代码模版：数据可视化篇', 'article link': 'https://www.aiyc.top/1903.html', 'article description': '你好，我是悦创。 上一篇，我写了：Python 万能代码模版：爬虫代码篇 接下来，是...'}
+{'title': 'Alex Smith: An NFL quarterback on overcoming setbacks and self-doubt', 'article link': 'https://www.aiyc.top/1899.html', 'article description': 'TED 视频 演讲稿 I wake up in a hospital bed and...'}
+{'title': '解决Python使用matplotlib绘图时出现的中文乱码问题', 'article link': 'https://www.aiyc.top/1897.html', 'article description': '前言 你好，我是悦创。 最近再写 Python 万能代码模板系列文章，公众号：AI悦...'}
+{'title': 'Web Crawling Lesson 3 Notes', 'article link': 'https://www.aiyc.top/1896.html', 'article description': 'There are two main schemes that are in url...'}
+{'title': 'Python 万能代码模版：爬虫代码篇', 'article link': 'https://www.aiyc.top/1892.html', 'article description': '你好，我是悦创。 很多同学一听到 Python 或编程语言，可能条件反射就会觉得“很...'}
+{'title': 'iOS端 Shadowrocket 使用教程（其实各个平台都可以）', 'article link': 'https://www.aiyc.top/1891.html', 'article description': '你好，我是悦创。 购买之后，我会发送订阅地址给你！ 按月订阅（其他方式邮件联系），购...'}
+{'title': '如何租用美区账号下载Shadowrocket(小火箭)', 'article link': 'https://www.aiyc.top/1890.html', 'article description': '你好，我悦创。 IOS 需要花 2 块钱租用美区账号下载一个小火箭。 必须要美区账号...'}
+{'title': '15 分钟 教你搞一个专属于你的域名邮箱', 'article link': 'https://www.aiyc.top/1889.html', 'article description': '什么是域名邮箱？ 你好，我是悦创。 可能目前你的邮箱后缀是 @qq、163、126、...'}
+{'title': 'Web Crawling Lesson 2 Notes', 'article link': 'https://www.aiyc.top/1887.html', 'article description': 'A very important concept in web crawling, ...'}
+{'title': 'PyCharm 软件 离线 安装 插件', 'article link': 'https://www.aiyc.top/1886.html', 'article description': '插件离线下载地址： http://plugins.jetbrains.com/ 2....'}
+{'title': 'Web Crawling Lesson 1 Notes', 'article link': 'https://www.aiyc.top/1885.html', 'article description': 'There are many forms of web crawling on th...'}
+{'title': '数据分析思维课|编程一对一教学', 'article link': 'https://www.aiyc.top/1883.html', 'article description': '课程介绍 这是一个数据分析入门的课程，这是一门有趣的课程，这是一个培养你数据思维的课...'}
+{'title': 'CURD是什么|编程一对一教学|少儿编程', 'article link': 'https://www.aiyc.top/1880.html', 'article description': 'CURD 是一个数据库技术中的缩写词，一般的项目开发的各种参数的基本功能都是 CUR...'}
+{'title': '算法究竟是个啥东西？', 'article link': 'https://www.aiyc.top/1879.html', 'article description': '你好，我是悦创。 算法，究竟是什么呢？（令人抓耳挠腮，想不明白） 1. 广义算法 广...'}
+{'title': '推荐·人人都能学数据分析', 'article link': 'https://www.aiyc.top/1875.html', 'article description': 'V:Jiabcdefh'}
+{'title': '万门大学课程下载，可以指定课程下载', 'article link': 'https://www.aiyc.top/1874.html', 'article description': '万门大学课程下载，可以指定课程下载 万门大学课程下载，可以指定课程下载 万门大学课程...'}
+{'title': 'Python一对一教学', 'article link': 'https://www.aiyc.top/1873.html', 'article description': '许多学员与我报名，这里我就放其中一个学员的付款记录 和其他学员的专属回放截图。之前没...'}
+{'title': 'Python库引用-import语句|编程私教，长期招收学员！', 'article link': 'https://www.aiyc.top/1872.html', 'article description': '简介 库引用是Python扩充程序功能的方式, Python使用import关键字来...'}
+{'title': '非常详细的范式讲解（1NF/2NF/3NF/BCNF）|编程一对一教学', 'article link': 'https://www.aiyc.top/1870.html', 'article description': '范式 你好，我是悦创。 本篇来自公众号：AI悦创，读者投稿。——Panda4u 范式...'}
+{'title': 'Selenium 与 ChromeDriver 的安装', 'article link': 'https://www.aiyc.top/1869.html', 'article description': '你好，我是悦创。 Selenium 的安装 Selenium 是一个自动化测试工具，...'}
+{'title': 'Python获取系统时间详解！', 'article link': 'https://www.aiyc.top/1868.html', 'article description': '你好，我是悦创。 最近准备给一对一学员，升级 Python 零基础的课程内容，就开发...'}
+{'title': '如何创建 Python 库', 'article link': 'https://www.aiyc.top/1867.html', 'article description': '你好，我是悦创。 我最近想要去开始开发 Python 第三方库，但是发现国内这样的教...'}
+{'title': 'Lesson 6 Notes/Projects', 'article link': 'https://www.aiyc.top/1863.html', 'article description': 'Functions are basically a warehouse that t...'}
+{'title': '你睡前思考的问题，暴露了你现在所处的层次', 'article link': 'https://www.aiyc.top/1859.html', 'article description': '网上曾经有这样一个段子： 不同工资的男生，睡前在想什么？ 月薪5万：团队需要再整合一...'}
+{'title': 'Lesson 5 Notes/Projects', 'article link': 'https://www.aiyc.top/1858.html', 'article description': 'In python, there are many ways to one thin...'}
+{'title': 'Lesson 4 Notes/Projects', 'article link': 'https://www.aiyc.top/1855.html', 'article description': 'The following code is for a basic login us...'}
+{'title': 'Lesson 3 Notes List/Dictionaries', 'article link': 'https://www.aiyc.top/1851.html', 'article description': 'Lists and dictionaries in python are very ...'}
+{'title': '爬取私募排排网历史净值和破解加密数值(完整版)', 'article link': 'https://www.aiyc.top/1850.html', 'article description': '你好，我是悦创。最近，手里有个单子，但是奈何自己实习公司事情太多。所以就把我一对一学...'}
+{'title': 'Python Lesson 2 Notes', 'article link': 'https://www.aiyc.top/1844.html', 'article description': 'Setting a start:stop value to be the same ...'}
+{'title': '爬取私募排排网历史净值和破解加密数值（上）', 'article link': 'https://www.aiyc.top/1845.html', 'article description': '你好，我是悦创。最近实习然后一对一学员上课备课，所以有点耽搁更新文章了。下一篇，会在...'}
+{'title': 'Python Lesson 1 Homework', 'article link': 'https://www.aiyc.top/1836.html', 'article description': 'print("Hello World!") You should use diffe...'}
+{'title': 'Python Homework 1 Projects', 'article link': 'https://www.aiyc.top/1837.html', 'article description': 'import pyinputplus as pyip ask_name = pyip...'}
+{'title': 'random password generator project', 'article link': 'https://www.aiyc.top/1841.html', 'article description': 'import pyinputplus as pyip import random i...'}
+{'title': 'python password encryptor', 'article link': 'https://www.aiyc.top/1840.html', 'article description': 'from cryptography.fernet import Fernet imp...'}
+{'title': 'python file renamer', 'article link': 'https://www.aiyc.top/1843.html', 'article description': 'import os import pyinputplus as pyip print...'}
+{'title': '05-pygame弹球游戏（上）', 'article link': 'https://www.aiyc.top/1838.html', 'article description': '你好，我是悦创。 前面我们讲了，一些 pygame 的操作，接下来呢，我们成功步入实...'}
+{'title': '06-pygame弹球游戏（下）', 'article link': 'https://www.aiyc.top/1833.html', 'article description': '你好，我是悦创。 前面我们讲了一个小实战，接下来呢，我们来继续把这个弹球小实战写完。...'}
+{'title': '04-Pygame 面向对象与音乐', 'article link': 'https://www.aiyc.top/1831.html', 'article description': '你好，我是悦创。 上一片我们讲了 pygame 的按键和鼠标，并且我也把缺少的注视今...'}
+{'title': '03-pygame 键盘与鼠标', 'article link': 'https://www.aiyc.top/1830.html', 'article description': '你好，我是悦创。前面一便天我们学习了：02-pygame 图片处理 接下来学习 py...'}
+{'title': 'CS61-计算器操作|Python一对一学员答疑贴', 'article link': 'https://www.aiyc.top/1828.html', 'article description': '你好，我是悦创。 我的一个一对一学员的提问： Q6: Calculator Ops ...'}
+{'title': 'CS61-仅使用正则表达式匹配罗马数字|Python一对一学员答疑贴', 'article link': 'https://www.aiyc.top/1827.html', 'article description': '你好，我是悦创。 我的一个一对一学员的提问： 问题代码： import re def...'}
+{'title': '[Pandas精进]判断连续时间序列范围并分组应用', 'article link': 'https://www.aiyc.top/1820.html', 'article description': '大家好，我是Brook。 最近在处理数据的时候遇到一个需求，核心就是求取最大连续行为...'}
+{'title': '02-pygame 图片处理', 'article link': 'https://www.aiyc.top/1817.html', 'article description': '你好，我是悦创。前面我们开始的为期 30天的更新挑战第一篇，接下来我们是第二篇。第一...'}
+{'title': 'Python搭建一个系统信息实时监控数据可视化大屏', 'article link': 'https://www.aiyc.top/1815.html', 'article description': '本文分享使用python搭建服务器应用的监控系统面板，主要流程如下： 1、数据库中创...'}
+{'title': '如何通过网页超链接控制电脑应用程序', 'article link': 'https://www.aiyc.top/1813.html', 'article description': '今日主题：如何通过手机网页超链接控制电脑应用程序 继上一篇:用Python实现手机实...'}
+{'title': '01-初识 pygame 游戏开发', 'article link': 'https://www.aiyc.top/1809.html', 'article description': '你好，我是悦创。接下来三十天，我将持续更新 Python pygame 的基础游戏开...'}
+{'title': '为什么游戏流畅需要60帧，而电影流畅只需要24帧？', 'article link': 'https://www.aiyc.top/1808.html', 'article description': '你好，我是悦创。 最近在设计 Pygame 的有些开发课程，有些扩展知识就放在这篇文...'}
+{'title': '02-2-Turtle 代码优化', 'article link': 'https://www.aiyc.top/1806.html', 'article description': '你好，我是悦创。 上一篇文章，我带你使用 Turtle 学会了画风筝，但是代码不够优...'}
+{'title': '03-Python turtle 模块实战：绘制机器猫前的分析', 'article link': 'https://www.aiyc.top/1804.html', 'article description': '你好，我是悦创。 在上一节教程中，我们学习了海龟绘图。本节教程，我们将使用前面介绍过...'}
+{'title': '02-Python turtle 模块精讲', 'article link': 'https://www.aiyc.top/1803.html', 'article description': '你好，我是悦创。 Python 标准库中有个 turtle 模块，俗称海龟绘图，它提...'}
+{'title': '01-Python 模块入门教程', 'article link': 'https://www.aiyc.top/1802.html', 'article description': '你好，我是悦创。 从现在开始，我们将尝试图形用户界面（GUI）程序的编写。Pytho...'}
+{'title': '详解：为什么尽量不要使用 using namespace std？', 'article link': 'https://www.aiyc.top/1799.html', 'article description': '你好，我是悦创。 Q1：为什么尽量不要使用 using namespace std？...'}
+{'title': 'C++：宏定义（#define）和常量（const）的区别', 'article link': 'https://www.aiyc.top/1798.html', 'article description': '你好，我是悦创。 最近开始准备一边复习 C++ 一遍备课和研究，一边记录一些遇到的编...'}
+{'title': '详解：C语言自增(++)和自减(--)', 'article link': 'https://www.aiyc.top/1797.html', 'article description': 'AI悦创·推出辅导班啦，包括「Python 语言辅导班、C++辅导班、算法/数据结构...'}
+{'title': 'C++ 指针基础', 'article link': 'https://www.aiyc.top/1796.html', 'article description': '你好，我是悦创。 学习 C++ 的指针既简单又有趣。通过指针，可以简化一些 C++ ...'}
+{'title': 'MinGW下载和安装教程', 'article link': 'https://www.aiyc.top/1792.html', 'article description': '要知道，GCC 官网提供的 GCC 编译器是无法直接安装到 Windows 平台上的...'}
+{'title': 'C++函数返回值介绍', 'article link': 'https://www.aiyc.top/1791.html', 'article description': '你好，我是悦创。C++ 函数返回值介绍（含return 0 与 return 1 与...'}
+{'title': 'C++ 自己实现cout和为什么使用 using namespace std;', 'article link': 'https://www.aiyc.top/1787.html', 'article description': '你好，我是悦创。 前排提示：阅读本篇文章需要至少学过类和对象以及重载运算符的概念。 ...'}
+{'title': 'office2019破解代码', 'article link': 'https://www.aiyc.top/1785.html', 'article description': '你好，我是悦创。 保存为 bat 文件即可。 @echo off (cd /d "%...'}
+{'title': 'JetBrains全系列软件激活教程激活码以及JetBrains系列软件汉化包', 'article link': 'https://www.aiyc.top/1784.html', 'article description': '你好，我是悦创。 JetBrains 全系列软件激活教程，共有两种方法，喜欢哪种用哪...'}
+{'title': 'Dev C++下载地址和安装教程（图解版）', 'article link': 'https://www.aiyc.top/1783.html', 'article description': 'Dev C++ 是一款免费开源的 C/C++ IDE，内嵌 GCC 编译器（GCC ...'}
+{'title': '如何用一条命令将网页转成电脑 App', 'article link': 'https://www.aiyc.top/1782.html', 'article description': '大家有没有一种感觉，很多网站其实做得非常优秀，但是它们就是没有开发 PC （电脑）版...'}
+{'title': '万门大学share', 'article link': 'https://www.aiyc.top/1781.html', 'article description': '微信：AndersonHjb'}
+{'title': 'Python 中两个 list 元素对比', 'article link': 'https://www.aiyc.top/1779.html', 'article description': '你好，我是悦创。 set 是一个无序不重复元素集，Python 数据类型的一种，由于...'}
+{'title': '下载网站 favicon 图标的 3 种方法', 'article link': 'https://www.aiyc.top/1778.html', 'article description': '你好，我是悦创。 在工作中，有时候我们会需要用到一些网站图标，但是浏览器上没有提供直...'}
+{'title': 'I_Have_a_Dream.txt', 'article link': 'https://www.aiyc.top/1774.html', 'article description': 'I am happy to join with you today in what ...'}
+{'title': 'Excel 批量删除空白行，你用了 2 小时，同事 3 分钟就搞定了', 'article link': 'https://www.aiyc.top/1760.html', 'article description': '你好，我是悦创。 相信很多人平时在 Excel 中，删除单元格空白行时，都是手动选中...'}
+{'title': 'Python一对一', 'article link': 'https://www.aiyc.top/1753.html', 'article description': 'Python一对一教学，爬虫、入门、Django、自动化办公等等！过300+ 学员在...'}
+{'title': 'Python基础/Python进阶一对一答疑', 'article link': 'https://www.aiyc.top/1752.html', 'article description': '写在前面的话 你好，我是悦创。 亲爱的小伙伴们，大家好，非常欢迎您来到 CSDN、A...'}
+{'title': '你为什么要学 Python ？', 'article link': 'https://www.aiyc.top/1737.html', 'article description': '你好，我是悦创。 曾深一对一教学过千人学习 Python ，希望这个专栏在帮助读者顺...'}
+{'title': 'Python 序列化与反序列化', 'article link': 'https://www.aiyc.top/1732.html', 'article description': '在程序运行的过程中，所有的变量都是在内存中，比如，定义一个 dict： d = di...'}
+{'title': 'A悦创学员作业代码提交方法', 'article link': 'https://www.aiyc.top/1730.html', 'article description': '添加你的作业文件夹及文件 我接下来，要 Fork 这个仓库：https://gith...'}
+{'title': 'Github进行fork后如何与原仓库同步', 'article link': 'https://www.aiyc.top/1729.html', 'article description': '实在是……有太多人同时在帮忙修订错别字或优化 xiaolai 的 the-craft...'}
+{'title': 'Python导出和导入所有依赖包', 'article link': 'https://www.aiyc.top/1722.html', 'article description': '导出所有依赖包 整个环境的依赖包导出 进入项目目录，执行以下命令： pip free...'}
+{'title': 'MacOS升级Big Sur后32位锐捷客户端排坑历程', 'article link': 'https://www.aiyc.top/1721.html', 'article description': '你好，我是悦创。 天哪！升级一时爽…搞了一晚上，因为10.15.2全面摒弃32位应用...'}
+{'title': '02-大规模异步新闻爬虫：实现功能强大、简洁易用的网址池(URL Pool)', 'article link': 'https://www.aiyc.top/1718.html', 'article description': '你好，我是悦创。 对于比较大型的爬虫来说，URL 管理的管理是个核心问题，管理不好，...'}
+{'title': '00-「前传」大规模异步新闻爬虫：简单的百度新闻爬虫', 'article link': 'https://www.aiyc.top/1713.html', 'article description': '初探 你好，我是悦创。 这个实战例子是构建一个大规模的异步新闻爬虫，但要分几步走，从...'}
+{'title': 'Python redis-py3.5教程', 'article link': 'https://www.aiyc.top/1711.html', 'article description': '本人长期招收 Python 一对一学员，欢迎联系微信：Jiabcdefh redis...'}
+{'title': '五分钟内的 Python 虚拟环境', 'article link': 'https://www.aiyc.top/1709.html', 'article description': '你好，我是悦创。 在 Python 中，虚拟环境用于将项目彼此隔离（例如，如果它们需...'}
+{'title': '游完泳不注意这一点，脸部皮肤可能会越变越差', 'article link': 'https://www.aiyc.top/1695.html', 'article description': '你好，我是悦创。为了让自己瘦下来，我将开启自己的游泳之旅。我也会将我看到视频或者文章...'}
+{'title': '01-大规模异步新闻爬虫：实现一个更好的网络请求函数', 'article link': 'https://www.aiyc.top/1694.html', 'article description': '你好，我是悦创。 这系列文章，将是大规模异步新闻爬虫实战的第一篇，网络请求篇：dow...'}
+{'title': 'Python leveldb', 'article link': 'https://www.aiyc.top/1677.html', 'article description': '你好，我是悦创。 leveldb 是 google 实现的一种非常高效的 key-v...'}
+{'title': "错误 No such Table 'auth_user'", 'article link': 'https://www.aiyc.top/1673.html', 'article description': 'Django 部署的时候出现错误 No such Table ‘auth_user’...'}
+{'title': 'Python os.walk() 笔记', 'article link': 'https://www.aiyc.top/1672.html', 'article description': "我们先使用如下代码： import os path = 'Path_file' fo..."}
+{'title': 'Python os.walk() 方法', 'article link': 'https://www.aiyc.top/1671.html', 'article description': '概述 os.walk() 方法用于通过在目录树中游走输出在目录中的文件名，向上或者向...'}
+{'title': 'os 模块操作文件与文件夹', 'article link': 'https://www.aiyc.top/1670.html', 'article description': '你好，我是悦创。 在日常工作中，我们经常会和文件、文件夹打交道，比如将服务器上指定目...'}
+{'title': '教大家几个白嫖百度文库的方法，亲测可用！建议收藏！', 'article link': 'https://www.aiyc.top/1669.html', 'article description': '你好，我是悦创。后台经常有小伙伴问能不能下载百度文库的。 于是，我就随手搜了一下百度...'}
+{'title': '04 | 字典、集合，你真的了解吗？', 'article link': 'https://www.aiyc.top/1665.html', 'article description': '你好，我是悦创。 前面的课程，我们学习了 Python 中的列表和元组，了解了他们的...'}
+{'title': '02|小菜成长之路，警惕沦为 API 调用侠', 'article link': 'https://www.aiyc.top/1663.html', 'article description': '小菜(化名)在某互联网公司担任运维工程师，负责公司后台业务的运维保障工作。由于自己编...'}
+{'title': 'Java 7-2 List的使用', 'article link': 'https://www.aiyc.top/1659.html', 'article description': '2、List的使用 本题练习列表的使用。 定义 Person 类 定义私有属性 St...'}
+{'title': 'Python pip换源所有方法', 'article link': 'https://www.aiyc.top/1658.html', 'article description': '你好，我是悦创。 我接下来，把所有 Python pip 换源的方法，都整理下来。 ...'}
+{'title': 'Windows下更换pip源为清华源', 'article link': 'https://www.aiyc.top/1657.html', 'article description': '你好，我是悦创。 打开 appdata 文件夹，在资源管理器的地址栏输入 %appd...'}
+{'title': 'OmniConverter for mac(全能视频转换器)v1.0.9中文版「可用！」', 'article link': 'https://www.aiyc.top/1655.html', 'article description': 'MAC 全能视频转换器 OmniConverter 能够为你转换各种视频内容。满足你...'}
+{'title': '04-读取Word文档内容', 'article link': 'https://www.aiyc.top/1654.html', 'article description': '1. 读取 docx 所需库 自动生成《背影》word 文档，以及自动生成日期的脚本...'}
+{'title': '03|列表和元组，到底用哪一个？', 'article link': 'https://www.aiyc.top/1653.html', 'article description': '你好，我是悦创。 前面的课程，我们讲解了 Python 语言的学习方法，并且带你了解...'}
+{'title': 'Python 中 -m 的典型用法、原理解析与发展演变', 'article link': 'https://www.aiyc.top/1652.html', 'article description': '这篇文章主要介绍了 Python 中 -m 的典型用法、原理解析与发展演变,需要的朋...'}
+{'title': 'Python基础/Python进阶一对一答疑', 'article link': 'https://www.aiyc.top/1651.html', 'article description': '写在前面的话 你好，我是悦创。 亲爱的小伙伴们，大家好，非常欢迎您来到 CSDN、A...'}
+{'title': 'Day 4：list 和 tuple 的 13 个经典使用案例', 'article link': 'https://www.aiyc.top/1649.html', 'article description': '上一天学习列表和元组的核心知识点，今天趁热打铁，通过 13 个案例，提高对它们的实际...'}
+{'title': 'Day 3：list 和 tuple 的基本操作、深浅拷贝和切片操作详细等 5 个方面总结', 'article link': 'https://www.aiyc.top/1645.html', 'article description': '1. 列表 列表（list）作为 Python 中最常用的数据类型之一，是一个可增加...'}
+{'title': 'Day 2：Python 四大数据类型总结', 'article link': 'https://www.aiyc.top/1644.html', 'article description': '1. 基本数据类型 1.1 数值型 Python 中的数据皆是对象，比如被熟知的 i...'}
+{'title': 'Day 1：Python 两大特性和四大基本语法', 'article link': 'https://www.aiyc.top/1640.html', 'article description': '你好，我是悦创。 Python 语言使用率越来越高，使用 Python 不仅可以做 ...'}
+{'title': '2-1 什么是数据|从认输数据开始', 'article link': 'https://www.aiyc.top/1637.html', 'article description': None}
+{'title': '【概率统计】不挂科「免费看」', 'article link': 'https://www.aiyc.top/1631.html', 'article description': '【概率统计】不挂科「免费看」 注册阿里开发的语雀： 点击链接快来和我一起加入语雀文档...'}
+{'title': '【离散数学】不挂科「免费分享」', 'article link': 'https://www.aiyc.top/1629.html', 'article description': '【离散数学】不挂科「在线直接看！」 注册阿里开发的语雀： 点击链接快来和我一起加入语...'}
+{'title': '「福利！免费！」Python自动化办公视频', 'article link': 'https://www.aiyc.top/1626.html', 'article description': '▲\xa0点击上方第二个“AI悦创”关注公众号 回复“3”加微信入群 办公自动化...'}
+{'title': '03-word 中插入图片和表格', 'article link': 'https://www.aiyc.top/1625.html', 'article description': '准备图片及代码 word 文档，支持文字、图片、表格等内容格式，前面掌握了文字和样式...'}
+{'title': 'Python自动化 world 定制文字字体和大小', 'article link': 'https://www.aiyc.top/1615.html', 'article description': '导入定制所需库 上节课已经完成了使用 Python 创建一个 docx 文档，内容是...'}
+{'title': '定类，定序，定距，定比四种数据类型', 'article link': 'https://www.aiyc.top/1604.html', 'article description': '在这个世界上有无限多的数据，而每种数据都有属于自己的属性。那么做数据挖掘数据分析的时...'}
+{'title': 'Python自动化生成 word 文档', 'article link': 'https://www.aiyc.top/1598.html', 'article description': '自动化所需库 自动化处理 word 文档，需要处理文档生成、内容替换的两个主要需求，...'}
+{'title': '『关于摄影的前后期』', 'article link': 'https://www.aiyc.top/1568.html', 'article description': '你好，我是悦创。 我的学生普遍后期不好，甚至完全不会用 Lightroom 这类基本...'}
+{'title': '多线程加速 Excel 画像素画', 'article link': 'https://www.aiyc.top/1566.html', 'article description': '你好，我是悦创。 最近刚刚开始返校，断更了，为此还是非常抱歉的。接下来更新频率是周更...'}
+{'title': '【吴恩达学习笔记】2. 监督学习和无监督学习', 'article link': 'https://www.aiyc.top/1564.html', 'article description': '监督学习(Supervised Learning) 监督学习，即为教计算机如何去完成...'}
+{'title': '【吴恩达学习笔记】1. 什么是机器学习？', 'article link': 'https://www.aiyc.top/1563.html', 'article description': '前言 随着互联网数据不断累积，硬件不断升级迭代，在这个信息爆炸的时代，机器学习已被应...'}
+{'title': 'CSDN不让复制css怎么控制不让选择和复制？', 'article link': 'https://www.aiyc.top/1561.html', 'article description': 'CSS 禁止鼠标拖动选择文字，禁用页面内容选中和复制操作，只需使用user-sele...'}
+{'title': 'PicGo + GitHub 搭建个人图床工具', 'article link': 'https://www.aiyc.top/1557.html', 'article description': '写在前面 我以前用的 七牛云 + Mpic 的组合，后来由于七牛云测试域名收回，我的...'}
+{'title': '魔性，用 Python 实现火爆全网的「蚂蚁呀嘿」视频特效！', 'article link': 'https://www.aiyc.top/1555.html', 'article description': '完整文章、资料阅读公众号文章还有视频：https://mp.weixin.qq.co...'}
+{'title': 'Ubuntu系统部署Python3 Django项目', 'article link': 'https://www.aiyc.top/1507.html', 'article description': '本项目github地址: https://github.com/icbug-deve...'}
+{'title': 'Python 做一个属于自己的web网站「下」', 'article link': 'https://www.aiyc.top/1551.html', 'article description': '目录 1、准备模型 2、点击交互操作 3、前后分离介绍 1、准备模型 上节课是页面的...'}
+{'title': 'Django前后分离介绍', 'article link': 'https://www.aiyc.top/1550.html', 'article description': '制作API用于前后端分析结构 前后端分离，是个趋势，了解前后端分离，对我们的技术提升...'}
+{'title': 'Django点击交互操作', 'article link': 'https://www.aiyc.top/1549.html', 'article description': '数据库内容读取并展示到首页上，首页展示了非常多的文章的标题和摘要，如果要查看内容的话...'}
+{'title': '数据渲染到页面', 'article link': 'https://www.aiyc.top/1548.html', 'article description': '上节课是页面的静态展示到浏览器，比较简单。本文学习下数据库后台以及数据展示到网页上。...'}
+{'title': 'django中models里面__str__有什么作用？', 'article link': 'https://www.aiyc.top/1547.html', 'article description': '__str__是 Python 的 object 基类的一个方法，也就是说 ...'}
+{'title': 'Python去掉文件中空行', 'article link': 'https://www.aiyc.top/1546.html', 'article description': '方法一 # coding = utf-8 def clearBlankLine():...'}
+{'title': 'Mac环境下编译安装tesseract-4.1.1', 'article link': 'https://www.aiyc.top/1545.html', 'article description': '1、安装依赖 # Packages which are always needed....'}
+{'title': 'Mac通过命令行搜索文件', 'article link': 'https://www.aiyc.top/1544.html', 'article description': '你好，我是悦创 。 最近在做 Python 简单的图像识别 ，需要用到某些库和软件，...'}
+{'title': 'Python做一个属于自己的web网站「上」', 'article link': 'https://www.aiyc.top/1542.html', 'article description': '目录 1、掌握前端技术开发精髓 2、Django 的安装和基础使用 3、理解 MTV...'}
+{'title': '制作首页', 'article link': 'https://www.aiyc.top/1541.html', 'article description': '放入静态文件 django 项目准备好了，静态网页也准备好了，本文学习如何将网页接入...'}
+{'title': 'VC6.0（VC++6.0）下载地址和安装教程（图解）', 'article link': 'https://www.aiyc.top/1540.html', 'article description': '你好，我是悦创。 截止到 2016年07月06日，C 语言中文网提供的 VC6.0安...'}
+{'title': '理解 MTV 模型', 'article link': 'https://www.aiyc.top/1539.html', 'article description': 'MTV介绍 要掌握 Django，必须了解 Django 的 MTV 模型，这是非常...'}
+{'title': 'Django 的安装和基础使用', 'article link': 'https://www.aiyc.top/1538.html', 'article description': 'Python 做 web 开发，非常的方便和快捷，这个优势，得益于 Python 的...'}
+{'title': 'Python自动化web系列掌握前端技术开发精髓', 'article link': 'https://www.aiyc.top/1537.html', 'article description': '网页内容，由三部分组成，分别是 html、css 和 javascript 。 ht...'}
+{'title': '超新学习刷课脚本「JS」', 'article link': 'https://www.aiyc.top/1535.html', 'article description': '// ==UserScript== // @name [学习通]网课自动答题助手-A...'}
+{'title': 'Ubuntu系统部署Python3 Django项目「零失败」', 'article link': 'https://www.aiyc.top/1534.html', 'article description': 'Powered By icbug & AI悦创 本项目 github 地址：...'}
+{'title': '超星学习刷课', 'article link': 'https://www.aiyc.top/1533.html', 'article description': None}
+{'title': 'Python邮件的定期报告', 'article link': 'https://www.aiyc.top/1532.html', 'article description': 'https://github.com/AndersonHJB/Play-with-o...'}
+{'title': 'Linux 的计划任务', 'article link': 'https://www.aiyc.top/1528.html', 'article description': '检测环境 Windows 是大家用的最多的，当然 Linux 和 Macos 也不能...'}
+{'title': 'Python Windows 的计划任务', 'article link': 'https://www.aiyc.top/1524.html', 'article description': '计划任务介绍 你好，我是悦创。计划任务，就是定期或者循环不间断的执行某个任务，做一些...'}
+{'title': 'Python管理邮件的接收', 'article link': 'https://www.aiyc.top/1523.html', 'article description': '库的安装 你好，我是悦创。既然可以发送邮件，就一定可以接收邮件，这两者是相互的。接收...'}
+{'title': '03 初识Git : 本地创建一个 Git 仓库', 'article link': 'https://www.aiyc.top/1515.html', 'article description': '宝剑锋从磨砺出，梅花香自苦寒来。——佚名 在上一节内容中，我们已经将 Git 环境安...'}
+{'title': '02 环境准备：在各系统中快速安装 Git 环境', 'article link': 'https://www.aiyc.top/1514.html', 'article description': '机会不会上门来找人，只有人去找机会。——狄更斯 你好，我是悦创。 在学习 Git 命...'}
+{'title': 'Python发送携带附件的邮件', 'article link': 'https://www.aiyc.top/1513.html', 'article description': '准备阶段 你好，我是悦创。以往的邮件发送形式，通常都会带上附件，例如工作中的文件发给...'}
+{'title': 'Python发送网页格式邮件', 'article link': 'https://www.aiyc.top/1504.html', 'article description': '邮件初始化 邮件的内容，可以是简单的几个文字，也可以是丰富的 HTML 页面。 但是...'}
+{'title': '01 开篇词：为什么要使用 Git？', 'article link': 'https://www.aiyc.top/1501.html', 'article description': '你好，我是悦创。 才能一旦让懒惰支配，它就一无可为。——克雷洛夫 在开发项目的时候，...'}
+{'title': 'Python发送纯文字邮件', 'article link': 'https://www.aiyc.top/1500.html', 'article description': '环境介绍 邮件是非常自由且通用的联系方式之一，不用及时回复，记录可以保存，有空查看和...'}
+{'title': '使用 Excel 画像素画', 'article link': 'https://www.aiyc.top/1498.html', 'article description': 'Excel 和图片类似 Excel 文件，单元格支持编辑内容和设置背景色。 一张图片...'}
+{'title': '手摸手带你部署Django', 'article link': 'https://www.aiyc.top/1497.html', 'article description': '补充说明： 关于项目部署，历来是开发和运维人员的痛点。造成部署困难的主要原因是大家的...'}
+{'title': 'Ubuntu升级或安装Nginx最新稳定版（包安装）', 'article link': 'https://www.aiyc.top/1496.html', 'article description': '说明 1）如果你之前安装过 Nginx，你可以输入 sudo apt-get --p...'}
+{'title': 'Ubuntu终端命令--查看端口占用及关闭', 'article link': 'https://www.aiyc.top/1495.html', 'article description': '你好，我是悦创。Ubuntu 查看端口使用情况，使用 netstat 命令： 1、查...'}
+{'title': 'openpyxl 追加 Excel 数据', 'article link': 'https://www.aiyc.top/1494.html', 'article description': 'xlsxwriter 只能创建新的文件，不能对文件进行数据的追加和读取操作。 需要追...'}
+{'title': '镜像加速器', 'article link': 'https://www.aiyc.top/1493.html', 'article description': '国内从 Docker Hub 拉取镜像有时会遇到困难，此时可以配置镜像加速器。国内很...'}
+{'title': '用超简单的 Python代码实现 Java 在线编译器', 'article link': 'https://www.aiyc.top/1492.html', 'article description': '原理参照： python在线编译器实现 代码注释很多，直接上代码 目录结构： Onl...'}
+{'title': 'Python在线编译器简单实现', 'article link': 'https://www.aiyc.top/1491.html', 'article description': '你好，我是悦创。因为项目，需要在网页中嵌入编译器。这个分为两部分，前端单独编译器及后...'}
+{'title': '使用 CodeMirror 打造在线代码编辑器', 'article link': 'https://www.aiyc.top/1490.html', 'article description': '前提 写这个的目的是因为教学的过程中，需要减少环境搭建所浪费的时间，减少我的边际成本...'}
+{'title': '基础的Linux命令', 'article link': 'https://www.aiyc.top/1487.html', 'article description': 'Linux系统基础命令 两个常用安装命令 apt-get install + 软件名...'}
+{'title': 'Mac下的winscp替代者 FileZilla', 'article link': 'https://www.aiyc.top/1482.html', 'article description': '前言 Windows下做开发运维的小伙伴，应该有一部分像我这样喜欢 用 winscp...'}
+{'title': 'xlsxwriter 生成 Excel 文件', 'article link': 'https://www.aiyc.top/1480.html', 'article description': '为什么需要掌握新的库 操作 xls xlrd 和 xlwt，以及 xlutils 足...'}
+{'title': 'Python链接和操作sqlite', 'article link': 'https://www.aiyc.top/1479.html', 'article description': '链接和查询代码 Python 自身携带 sqlite 库，不需要额外安装，直接使用即...'}
+{'title': 'tldextract 与 urllib.parse.urlparse 区别', 'article link': 'https://www.aiyc.top/1477.html', 'article description': '文件：links_list.txt //gss0.bdstatic.com/5foI...'}
+{'title': '定位具有检测函数自身的代码', 'article link': 'https://www.aiyc.top/1475.html', 'article description': 'window.toString_sys = Function.prototype.t...'}
+{'title': '在Pycharm中自动添加时间日期作者等信息', 'article link': 'https://www.aiyc.top/1474.html', 'article description': '你好，我是悦创。在 Pycharm 中自动添加时间日期作者等信息 1. 按照下面路径...'}
+{'title': '《5分钟商学院》4周年：写了100万字，我学到的3件事', 'article link': 'https://www.aiyc.top/1472.html', 'article description': '2016年9月25日，《5分钟商学院》第一次在得到APP上与大家见面。 到今天，正好...'}
+{'title': 'Python合并Excel类的错误行代码', 'article link': 'https://www.aiyc.top/1471.html', 'article description': '# 导入 excel 和文件操作库 import xlrd import xlwt ...'}
+{'title': 'python列表删除重复元素的三种方法', 'article link': 'https://www.aiyc.top/1469.html', 'article description': "给定一个列表，要求删除列表中重复元素。 listA = ['python','语',..."}
+{'title': 'Python删除list里的重复元素有几种方法？', 'article link': 'https://www.aiyc.top/1468.html', 'article description': '问：说说Python删除list里的重复元素有几种方法？ 答： 在 Python 中...'}
+{'title': 'Python自动化办公之数据库「上」', 'article link': 'https://www.aiyc.top/1466.html', 'article description': '你好，我是悦创。这一篇我们继续来学习 Python 办公自动化之数据的学习。 一：数...'}
+{'title': 'Pathlib 比 OS 更好的路径库', 'article link': 'https://www.aiyc.top/1465.html', 'article description': '该模块提供表示文件系统路径的类，其语义适用于不同的操作系统。路径类被分为提供纯计算操...'}
+{'title': '在 Mac 上拍摄截屏', 'article link': 'https://www.aiyc.top/1460.html', 'article description': '你好，我是悦创。 您可以捕捉整个屏幕、某个窗口或屏幕上的某一部分。 如何在 Mac ...'}
+{'title': 'Python自动化结算工资和统计报表', 'article link': 'https://www.aiyc.top/1450.html', 'article description': '你好，我是悦创。 实例需求说明 学习了Excel文件的写入、读取和追加内容，那现在来...'}
+{'title': 'Python 追加 Excel 数据', 'article link': 'https://www.aiyc.top/1449.html', 'article description': '你好，我是悦创。这篇文章，我再来分享一个库：xlutils。 我们的目标：往“虚假用...'}
+{'title': '实战！「Excel 拆分」', 'article link': 'https://www.aiyc.top/1447.html', 'article description': '你好，我是悦创。上面一篇，我在 Excel 合并 中留下一个 Excel 拆分的实战...'}
+{'title': 'Python中重要、常用的科学计算库', 'article link': 'https://www.aiyc.top/1445.html', 'article description': 'Numpy Numpy 是Python科学计算的一个基础包，后期大部分项目都会基于N...'}
+{'title': '【Java】互联网三高---高性能', 'article link': 'https://www.aiyc.top/1442.html', 'article description': '互联网三高指什么？ 高性能，高可用，高并发 今天我们来聊聊《互联网三高》的第一方面-...'}
+{'title': '实战！「Excel 合并」', 'article link': 'https://www.aiyc.top/1439.html', 'article description': '你好，我是悦创。今天是咱们来研究 Excel 的拆分和合并。 工作中，如果我们需要同...'}
+{'title': 'Python 实现 Excel 的读写操作「读取 Excel 文件」', 'article link': 'https://www.aiyc.top/1431.html', 'article description': '你好，我是悦创。写文件已经搞定，接下来就要学习下 Excel 的读操作。 写入 Ex...'}
+{'title': 'Python 实现 Excel 的读写操作「写入Excel文件」', 'article link': 'https://www.aiyc.top/1429.html', 'article description': '你好，我是悦创。前面给你讲解了什么是办公自动化，和环境安装，接下来我们来实际操作教学...'}
+{'title': '第一次见岳父岳母的攻略「转载」', 'article link': 'https://www.aiyc.top/1426.html', 'article description': '你好，我是悦创。 为了准备之后和女朋友的岳父岳母相见，找到了这么一篇还不错的文章。 ...'}
+{'title': 'Python 自动化办公实战课「推文系列」', 'article link': 'https://www.aiyc.top/1425.html', 'article description': '什么是自动化办公 你好，我是悦创。 这次悦创又为你带来了《Python 自动化办公实...'}
+{'title': '2-1 什么是数据', 'article link': 'https://www.aiyc.top/1421.html', 'article description': '那上面对于数据分析来说是非常重要的一章，就好比我们在学习写作之前，你需要学习基本的遣...'}
+{'title': 'Python自动化办公实战课「一对一教学」', 'article link': 'https://www.aiyc.top/1418.html', 'article description': '你好，我是悦创。 这次悦创又为你带来了《Python 自动化办公实战课》这门视频实战...'}
+{'title': '1-2 从互联网数据分析说起', 'article link': 'https://www.aiyc.top/1412.html', 'article description': '你好，我是悦创。 在上一个章节的导学部分，我们认识到数据分析到重要性。以及作为数据分...'}
+{'title': '1-1 互联网数据分析通用课程-导学', 'article link': 'https://www.aiyc.top/1397.html', 'article description': '你好，我是悦创。 当你来跟我学数据分析的课程的时候，就对数据分析有足够的兴趣。 事实...'}
+{'title': 'Wordpress网页直接插入bilibili视频方法', 'article link': 'https://www.aiyc.top/1391.html', 'article description': 'Wordpress 网页直接插入 bilibili 视频方法 先在视频页将鼠标移到分...'}
+{'title': '与微软交流的无语经历，办事效率极低！！！', 'article link': 'https://www.aiyc.top/1777.html', 'article description': '翻译工具 2010 年窗口器器， - 2021年6月27日下午3：44 家宝 英语 ...'}
+{'title': 'PPT中快速复制', 'article link': 'https://www.aiyc.top/1386.html', 'article description': '选中需要\xa0复制\xa0的图形，按住 Ctrl+D 键即可进行快速复制。...'}
+{'title': '词法和句法「视频」', 'article link': 'https://www.aiyc.top/1379.html', 'article description': '视频仅供学习交流使用，如有侵权请联系删除。「本视频不以任何形式收费，纯分享」'}
+{'title': '「推荐」自由职业摄影师 Plus 视频课程', 'article link': 'https://www.aiyc.top/494.html', 'article description': '自由职业摄影师 Plus 视频课程全集'}
+{'title': '你以为你在创业，其实你只是在为社会打工', 'article link': 'https://www.aiyc.top/1373.html', 'article description': '一位正在创业的学员问我： 刚开始进入行业的时候，可以赚到很多钱。 可是，随着这几年竞...'}
+{'title': '开篇词-这年头，你真应该懂点法律常识', 'article link': 'https://www.aiyc.top/1368.html', 'article description': '你好，我是周甲德，是北京市京师律师事务所的一名律师，你可以叫我老周。工作十年，我办过...'}
+{'title': 'Mac下使用VScode编译配置C/C++程序详细图文教程', 'article link': 'https://www.aiyc.top/1358.html', 'article description': '微软提供一个跨平台的编辑器Visual studio code，这个编辑器很轻量级，...'}
+{'title': 'python零基础入门寒假班', 'article link': 'https://www.aiyc.top/1355.html', 'article description': '你将获得: 掌握 Python 3 基础语法及编码规范，从小白到入门； 掌握正确的编...'}
+{'title': 'Python3 网络爬虫入门与实战', 'article link': 'https://www.aiyc.top/1356.html', 'article description': '你将获得 爬虫基本原理 爬虫基本库的使用 爬虫框架/封装设计 必知必会的http原理...'}
+{'title': 'VPN iOS端 Shadowrocket 使用教程（其实各个平台都可以）', 'article link': 'https://www.aiyc.top/1893.html', 'article description': '你好，我是悦创。 购买之后，我会发送订阅地址给你！ 按月订阅（其他方式邮件联系），购...'}
+{'title': 'Python一对一题目辅导「PTA 题目讲解·难度系数：基础」', 'article link': 'https://www.aiyc.top/1337.html', 'article description': '点击此链接获得完整文章阅读： Python一对一题目辅导「PTA 题目讲解·难度系数...'}
+{'title': 'python练习-模拟评委评分歌手,Python,一练,对,打分', 'article link': 'https://www.aiyc.top/1335.html', 'article description': '在布塔学院的某次十佳歌手比赛中，7位评委对歌手打分，计算总分时，需要去掉一个最高分，...'}
+{'title': 'BBC揭露印度的假新闻网络,我国的网络环境安全问题何时能得到重视!', 'article link': 'https://www.aiyc.top/1323.html', 'article description': '震惊!死去数年的教授为何突然复活!震惊!早已解散多年组织为何突现UNHRC! 欢迎来...'}
+{'title': '将Google Drive共享的资源拷贝、转存到自己的Google Drive', 'article link': 'https://www.aiyc.top/1315.html', 'article description': '在 Google Drive共享的资源的单个文件点击右键是有复制到自己硬盘的功能的。...'}
+{'title': 'jquery第三章练习三（制作京东常见问题分类页面）', 'article link': 'https://www.aiyc.top/1313.html', 'article description': 'js 代码及要求如下： $(document).ready(function () ...'}
+{'title': 'Jquery实现京东右侧固定层', 'article link': 'https://www.aiyc.top/1312.html', 'article description': '页面代码如下 <!DOCTYPE html> <html> ...'}
+{'title': 'jQuery仿京东左侧物品导航栏练习', 'article link': 'https://www.aiyc.top/1311.html', 'article description': '1、HTML 和样式部分 <style type="text/css">...'}
+{'title': '「推荐」乐嘉性格色彩--搞定一切你想搞定的人', 'article link': 'https://www.aiyc.top/1308.html', 'article description': '网站所有资源仅供参考交流,如有侵权请联系邮箱: m13664409584@163.c...'}
+{'title': '运营可能是一种思维方式', 'article link': 'https://www.aiyc.top/1307.html', 'article description': '运营可能是一种思维方式 最近我有一种强烈的感觉，也可以说是一种迷思，那就是，很多在从...'}
+{'title': '吐血推荐  滴水网络第一期逆向破解完整版', 'article link': 'https://www.aiyc.top/1306.html', 'article description': '网站所有资源仅供参考交流,如有侵权请联系邮箱: m13664409584@163.c...'}
+{'title': '「推荐」数据结构与算法之美', 'article link': 'https://www.aiyc.top/1305.html', 'article description': '网站所有资源仅供参考交流,如有侵权请联系邮箱: m13664409584@163.c...'}
+{'title': '「推荐」人工智能的基础课', 'article link': 'https://www.aiyc.top/1303.html', 'article description': '网站所有资源仅供参考交流,如有侵权请联系邮箱: m13664409584@163.c...'}
+{'title': '该项目是基于医疗领域知识图谱的问答系统', 'article link': 'https://www.aiyc.top/1304.html', 'article description': 'QASystemOnMedicalGraph 该项目是基于医疗领域知识图谱的问答系统...'}
+{'title': '答疑代码问题', 'article link': 'https://www.aiyc.top/1300.html', 'article description': '千里之行始于足下：你好，有一个问题想请教一下可以吗？Python 的。 悦创：先发吧...'}
+{'title': '「推荐」程序员的数学基础', 'article link': 'https://www.aiyc.top/1298.html', 'article description': '网站所有资源仅供参考交流,如有侵权请联系邮箱: m13664409584@163.c...'}
+{'title': '「推荐」软件工程之美 --重新理解软件工程', 'article link': 'https://www.aiyc.top/1293.html', 'article description': '网站所有资源仅供参考交流,如有侵权请联系邮箱: m13664409584@163.c...'}
+{'title': "FileNotFoundError: [Errno 2] No such file or directory: 'XXX' 的解决方法", 'article link': 'https://www.aiyc.top/1286.html', 'article description': '错误描述： FileNotFoundError: [Errno 2] No such...'}
+{'title': 'Python | 判定IP地址合法性的四种方法', 'article link': 'https://www.aiyc.top/1275.html', 'article description': '你好，我是悦创。 IP 合法性校验是开发中非常常用的，看起来很简单的判断，作用确很大...'}
+{'title': '构图就是套公式？', 'article link': 'https://www.aiyc.top/1274.html', 'article description': '你好，我是悦创。 在视觉艺术的语汇中，恐怕没有比 “构图” 这个词更使摄影人员望而生...'}
+{'title': '个人学习摄影接触到的网站', 'article link': 'https://www.aiyc.top/1235.html', 'article description': '摄影笔记 叶梓 生活美學 M摄影网 AI悦创'}
+{'title': '14-循环和判断的总结', 'article link': 'https://www.aiyc.top/1221.html', 'article description': '目录 Java 中的单行注释 从标准输出读取字符串和整数 生成指定范围内的随机数 猜...'}
+{'title': '13-程序执行流程之 switch 语句', 'article link': 'https://www.aiyc.top/1218.html', 'article description': '目录 将阿拉伯数字转换为中文数字 使用 switch 语句简化程序 switch 语...'}
+{'title': '12-程序循环之 while 语句', 'article link': 'https://www.aiyc.top/1215.html', 'article description': '目录 用 while 语句增强找整除数的程序 do-while 语句——至少执行一次...'}
+{'title': '为什么这个算法要执行这么长时间？', 'article link': 'https://www.aiyc.top/1213.html', 'article description': '今天应做的事没有做，明天再早也是耽误了。 ——裴斯泰洛齐 你好，我是悦创。 最近真的...'}
+{'title': 'Markdown数学公式语法', 'article link': 'https://www.aiyc.top/1212.html', 'article description': '行内与独行 行内公式：将公式插入到本行内，符号：公式内容，如：xyz，效果：xyz ...'}
+{'title': '11-代码块和变量的作用域', 'article link': 'https://www.aiyc.top/1203.html', 'article description': '目录 大括号括起来的就是代码块 变量的作用域 理解作用域和命名空间 for 循环嵌套...'}
+{'title': '10-程序循环之 for 语句', 'article link': 'https://www.aiyc.top/1192.html', 'article description': '目录 简化输出连续 26 个字符的程序 简化并增强找整除数的程序 break 语句 ...'}
+{'title': '09-程序执行流程之 if-else 语句', 'article link': 'https://www.aiyc.top/1095.html', 'article description': '目录 顺序执行 怎么能多买几个热包子？用 if-else 增强寻找可以被整除的程序 ...'}
+{'title': '08-操作符和数据类型总结', 'article link': 'https://www.aiyc.top/1087.html', 'article description': '目录 自增和自减操作符 打印 26 个连续的字符 找到可以被整除的数 1. 自增和自...'}
+{'title': '07-字符集编码和字符串', 'article link': 'https://www.aiyc.top/1084.html', 'article description': '目录 什么是字符集和编码 编码和字符集介绍 ASCII 码和转义符(escape c...'}
+{'title': '「推荐」全球iPhone摄影冠军教你：普通手机如何随手拍出专业级照片！', 'article link': 'https://www.aiyc.top/1071.html', 'article description': '全球iPhone摄影冠军教你：普通手机如何随手拍出专业级照片！ 零基础学透手机摄影：...'}
+{'title': '06-基本数据类型的更多语法点', 'article link': 'https://www.aiyc.top/1061.html', 'article description': '目录 变量要先赋值后使用 计算并赋值运算符 数据类型自动转换 强制类型转换和数字溢出...'}
+{'title': '05-Java 中的位运算符', 'article link': 'https://www.aiyc.top/1058.html', 'article description': '目录 字面值的八进制和十六进制 按位运算符 位移运算符 位运算符不会改变原变量的值 ...'}
+{'title': '跆拳道宣传视频', 'article link': 'https://www.aiyc.top/1053.html', 'article description': '厦门工学院跆拳道队是优秀的学生组织，秉承“推广跆拳道运动，弘扬跆拳道精神，提高大学生...'}
+{'title': '04-Java 中的运算符', 'article link': 'https://www.aiyc.top/1051.html', 'article description': '目录 什么是运算符 取模运算符 整数的除法运算 比较运算符和布尔运算符 小括号运算符...'}
+{'title': 'AI悦创-专栏课程', 'article link': 'https://www.aiyc.top/1050.html', 'article description': '以下内容均为专栏课程，课程均在语雀发布，购买之后添加权限即可。购买后永久观看和持续更...'}
+{'title': '03-Java 中的基本数据类型', 'article link': 'https://www.aiyc.top/1047.html', 'article description': '目录 认识二进制 数字的基本数据类型 布尔和字符数据类型 使用各种基本数据类型 你好...'}
+{'title': '情人节摄影课：拍与被拍都是套路', 'article link': 'https://www.aiyc.top/1020.html', 'article description': '课程视频 观看链接： https://www.aiyc.top/courses/va...'}
+{'title': '02-从加减乘除到变量和语句', 'article link': 'https://www.aiyc.top/1016.html', 'article description': '前面的文章链接： 00-编写第一个程序—— Hello World 01-从加减乘除...'}
+{'title': '三天入门Django开发博客「实战」', 'article link': 'https://www.aiyc.top/1014.html', 'article description': '你好，我是悦创。 为了解决有网站开发需求，开发自己的网站或者博客，故出这样一套课程。...'}
+{'title': '01-从加减乘除到变量', 'article link': 'https://www.aiyc.top/1012.html', 'article description': '你好，我是悦创。 前面的文章链接： 编写第一个程序—— Hello World 目录...'}
+{'title': 'Django 快速入门课程「搭建个人博客」', 'article link': 'https://www.aiyc.top/1009.html', 'article description': '1. 初探 Django 1. Why Django? 免费开源 功能丰富 开发迅速...'}
+{'title': '00-编写第一个程序—— Hello World', 'article link': 'https://www.aiyc.top/997.html', 'article description': '目录 编写程序 运行程序 1. 练习题 尝试用程序输出不同的字符出来，可以尝试不同的...'}
+{'title': '数据分析实战「一对一教学」', 'article link': 'https://www.aiyc.top/957.html', 'article description': '你好，我是悦创。 这里，我出了一整套的数据分析教学，你可以选择跟我买专栏。当然你也可...'}
+{'title': '「实战」南京房价的秘密——准备篇', 'article link': 'https://www.aiyc.top/939.html', 'article description': '本文给大家准备了房地产大数据，基于爬虫采集来自互联网的公开信息，数据可以分为 4块：...'}
+{'title': 'Pandas 第一轮零基础扫盲', 'article link': 'https://www.aiyc.top/925.html', 'article description': '为什么用 Pandas？ 通过对 Numpy 的学习，我们发现 Numpy 的功能确...'}
+{'title': '「练习」分析热门标签', 'article link': 'https://www.aiyc.top/857.html', 'article description': '任务1：找出最多人想读的50本书的名称 任务2：找出这50本书对应最热门的10个标签...'}
+{'title': '「练习」Numpy 与 Pandas 读取文件速度对比', 'article link': 'https://www.aiyc.top/856.html', 'article description': '本题就是操作 Numpy 与 Pandas 读取文件，并对比速度： 数据集： rat...'}
+{'title': 'Pandas 快速入门', 'article link': 'https://www.aiyc.top/854.html', 'article description': '这是一个 Pandas 快速入门教程，主要面向新用户。这里主要是为那些喜欢“短平快”...'}
+{'title': '如何挑选命中率高的好工作？', 'article link': 'https://www.aiyc.top/827.html', 'article description': '你好，欢迎来到课时2，我是你的职场导师吴文娟。这节课我从3个方面来教你如何挑选一份好...'}
+{'title': '零基础补给站 | 词法概念扫盲——名词 Noun', 'article link': 'https://www.aiyc.top/825.html', 'article description': '本文仅供学习交流使用，如有侵权请予以告知，本文不收取任何费用！ 开搞开搞！ 盘古开天...'}
+{'title': 'MacOS怎么安装ChromeDriver「2020安装教程」', 'article link': 'https://www.aiyc.top/824.html', 'article description': '你好，我是悦创。 如果你觉得教程过时可以关注微信公众号：AI悦创，加小编好友。群友为...'}
+{'title': 'Mac OS X在终端中打开文件夹窗口', 'article link': 'https://www.aiyc.top/823.html', 'article description': '你好，我是悦创。 最近在VMware中安装了两个虚拟机，很多命令还是在 Linux ...'}
+{'title': '永远别轻视任何技术，也永远别轻视自己', 'article link': 'https://www.aiyc.top/820.html', 'article description': '你好，我是悦创。 说实话，写技术文章也有两年的时间了，我觉得我自身实现了一定的升华，...'}
+{'title': '学好一类技术，需要掌握哪些前置知识？', 'article link': 'https://www.aiyc.top/819.html', 'article description': '你好，我是悦创。 写技术类文章已经有一段时间了，随着涉及的技术越来越深，很多同学觉得...'}
+{'title': '人工智能：新时代的必修课', 'article link': 'https://www.aiyc.top/818.html', 'article description': '2016 年，AlphaGo 的横空出世掀起了人工智能的新一轮热潮。在经历了近三十年...'}
+{'title': '技术岗薪资对比+供需分析', 'article link': 'https://www.aiyc.top/817.html', 'article description': '你好，我是你的职场导师吴文娟。 先做个自我介绍，我是2013年接触互联网工作的，当时...'}
+{'title': '「随笔」用 pandas 中的 DataFrame 时选取行或列', 'article link': 'https://www.aiyc.top/816.html', 'article description': 'import numpy as np import pandas as pd fro...'}
+{'title': 'Requests出现乱码，一次解决！', 'article link': 'https://www.aiyc.top/813.html', 'article description': '你好，我是悦创。 回顾一下爬虫的小基础小知识点。 1. Python 爬虫基础 1....'}
+{'title': 'Python科学计算：用NumPy快速处理数据', 'article link': 'https://www.aiyc.top/812.html', 'article description': '你好，我是悦创。 我来分享一下数据分析中 Numpy 库的使用，本文内容较多，不可能...'}
+{'title': '数据归一化「练习」', 'article link': 'https://www.aiyc.top/811.html', 'article description': '数据归一化 使用 NumPy，下载 iris.data 数据集。仅提取 iris 数...'}
+{'title': 'Mac GIF应用推荐「两款、免费」', 'article link': 'https://www.aiyc.top/808.html', 'article description': 'Mac GIF应用推荐「两款、免费」 平时给文章做配图、给朋友演示操作，少不了一个录...'}
+{'title': '课前预习2：使用网页爬虫利器—Requests', 'article link': 'https://www.aiyc.top/807.html', 'article description': '上篇文章我们讲解了使用 Python 自带的 urllib 模块来爬取我们的第一个页...'}
+{'title': '爬取你的第一个网页', 'article link': 'https://www.aiyc.top/806.html', 'article description': '从本篇开始，我们正式开始学习 Python 网页爬虫的相关知识。 通过上面两篇基础教...'}
+{'title': 'Requests 库的基本使用', 'article link': 'https://www.aiyc.top/805.html', 'article description': '上一课时我们了解了一些学习爬虫所需要的基本知识。从本课时开始，我们正式步入Pytho...'}
+{'title': 'JS 逆向的时候 Python 如何调用 JavaScript 代码？「建议收藏哦！」', 'article link': 'https://www.aiyc.top/798.html', 'article description': '你好，我是悦创。关注公众号：AI悦创，抢先阅读优质文章。 本篇目标 了解为什么我们需...'}
+{'title': '「练习」统计书本的平均评分', 'article link': 'https://www.aiyc.top/794.html', 'article description': '统计书本的平均评分 读取文件 rating.txt 中的的数据并分析 共有 1000...'}
+{'title': '「转载」vaptcha 等手势验证码图像识别与轨迹提取（思路）', 'article link': 'https://www.aiyc.top/793.html', 'article description': '作者：文安哲 从博客重开以后就说要更文章，鸽了蛮久了，赶紧补上一篇嫖嫖各位老公的流量...'}
+{'title': '数据准备篇：没有数据怎么办，当然自己爬喽', 'article link': 'https://www.aiyc.top/791.html', 'article description': '智慧，不是死的默念，而是生的沉思。 ——斯宾诺莎 俗话说：将军难打无兵之仗，巧妇难为...'}
+{'title': '程序员应该怎么学数学？', 'article link': 'https://www.aiyc.top/790.html', 'article description': '你好，我是悦创。 怎样的学习方法才是行之有效的呢？我想你现在心里还没有一个固定的答案...'}
+{'title': '分享：作为程序员，为什么你应该学好数学？', 'article link': 'https://www.aiyc.top/789.html', 'article description': '你好，我是黄申，目前在 LinkedIn 从事数据科学的工作，主要负责全球领英的搜索...'}
+{'title': '无后期，不摄影', 'article link': 'https://www.aiyc.top/788.html', 'article description': '你好，我是悦创。 是时候放下成见了。自从人类拍出的第一张照片开始，后期处理就与前期拍...'}
+{'title': 'JS 逆向涉及的语法全在这，拿走不谢！', 'article link': 'https://www.aiyc.top/784.html', 'article description': '你好，我是悦创。 欢迎关注公众号：AI悦创「网站右侧二维码」，公众号最先更新！ 今天...'}
+{'title': '04-每日清晨的正念引导法（无音乐版）', 'article link': 'https://www.aiyc.top/783.html', 'article description': '每日早晨的正念引导法 早安，请你坐在一个安静的，不会被打扰的地方。如果房间有个窗户或...'}
+{'title': '03-基础篇3：正念的练习', 'article link': 'https://www.aiyc.top/782.html', 'article description': '正念的练习 欢迎回到24堂正念训练的概念篇，第三段。 在这一段，我来分享两个对于正念...'}
+{'title': '02-基础篇2：正念的心态', 'article link': 'https://www.aiyc.top/780.html', 'article description': '正念的心态 欢迎回到24堂正念训练的概念篇，第二段。 我在上一段提到，正念的练习，就...'}
+{'title': '01-基础篇1：正念是什么？', 'article link': 'https://www.aiyc.top/779.html', 'article description': '正念是什么 「正念」是什么？它有什么特点？当我们在做正念训练时，要记住哪些原则？如何...'}
+{'title': '继华为之后，又一位出海大哥TikTok被美国制裁了…', 'article link': 'https://www.aiyc.top/775.html', 'article description': '2020年6月29日，以 TikTok 为首的 59款中国 app 被印度禁用。 随...'}
+{'title': '01-相机姿势，你的姿势对不对呢？「原题：夺命摄影十八式」', 'article link': 'https://www.aiyc.top/774.html', 'article description': '你好，我是悦创。 其实，有时候摄影的图像看不清，不一定是对焦造成的。有些是你持机姿势...'}
+{'title': 'Python 基础语法：开始你的 Python 之旅', 'article link': 'https://www.aiyc.top/773.html', 'article description': '上一节课我跟你分享了数据挖掘的最佳学习路径，相信你对接下来的学习已经心中有数了。 今...'}
+{'title': '数据分析的环境不会搭？看这里准没错！', 'article link': 'https://www.aiyc.top/772.html', 'article description': '没有智慧的头脑，就象没有腊烛的灯笼。 ——列夫·托尔斯泰 你好，我是悦创。 自学一门...'}
+{'title': '「推荐」博学谷：所有人都能学的数据分析课', 'article link': 'https://www.aiyc.top/771.html', 'article description': '本套课程来自博学谷：所有人都能学的数据分析课，由去哪儿网资深数据产品经理：曾津，和A...'}
+{'title': '「推荐」Notability Mac 破解版 强大易用的笔记和注释工具', 'article link': 'https://www.aiyc.top/770.html', 'article description': 'Notability Mac 破解版 强大易用的笔记和注释工具 你好，这次为了给跟我...'}
+{'title': '为什么用Python做数据分析？', 'article link': 'https://www.aiyc.top/769.html', 'article description': '生活的理想，就是为了理想的生活。 ——张闻天 你好，我是悦创。 21世纪的企业竞争是...'}
+{'title': '学习数据挖掘的最佳路径是什么？', 'article link': 'https://www.aiyc.top/767.html', 'article description': '上一节中，我给你分享了数据分析的全景图，其中最关键的部分就是数据挖掘，那什么是数据挖...'}
+{'title': '数据分析全景图及修炼指南', 'article link': 'https://www.aiyc.top/766.html', 'article description': '今天我们的学习正式开始，我想先给你一张数据分析的全景图，让你对后面的学习做到心中有数...'}
+{'title': '你为什么需要数据分析能力？', 'article link': 'https://www.aiyc.top/765.html', 'article description': '你好，我是悦创，本科软件工程专业，虽然不在清华，但清华有一门课，叫数据挖掘，正是通过...'}
+{'title': 'pyecharts快速入门', 'article link': 'https://www.aiyc.top/763.html', 'article description': 'pyecharts Python ❤️ Echarts = pyecharts 📣 ...'}
+{'title': '安静的程序，淘气的程序和编写程序', 'article link': 'https://www.aiyc.top/762.html', 'article description': '1. 静态程序——程序的源代码 上一章我们讲到了程序的源代码，你是不是很好奇它和程序...'}
+{'title': '又回到最初的起点：软件和程序', 'article link': 'https://www.aiyc.top/761.html', 'article description': '1. 软件和程序 每每提到“编程”这个词，大家都会觉得这是件高端、神秘的事，或者会皱...'}
+{'title': '00-致词：让正念融入我们的生活', 'article link': 'https://www.aiyc.top/758.html', 'article description': 'Hi, 朋友你好，我是刘轩，欢迎你参加 Mindfulness Now 正念课程。 ...'}
+{'title': '10-多路加速，了解多进程基本原理', 'article link': 'https://www.aiyc.top/757.html', 'article description': '在上一课时我们了解了多线程的基本概念，同时我们也提到，Python 中的多线程是不能...'}
+{'title': '09-一篇带你熟练使用多线程与原理「Thread」', 'article link': 'https://www.aiyc.top/755.html', 'article description': '我们知道，在一台计算机中，我们可以同时打开许多软件，比如同时浏览网页、听音乐、打字等...'}
+{'title': '补充：简单普及「阅读即可」', 'article link': 'https://www.aiyc.top/754.html', 'article description': '概念了解 现在学前端有些浪费时间了，因为你要发展 Python 网络爬虫 方向，基本...'}
+{'title': '08-写网络爬虫程序的三种难度', 'article link': 'https://www.aiyc.top/753.html', 'article description': '写爬虫，是一个非常考验综合实力的活儿。有时候，你轻而易举地就抓取到了想要的数据；有时...'}
+{'title': '悦创：胆小鬼博弈', 'article link': 'https://www.aiyc.top/752.html', 'article description': '很多同学问我，如何看待中美之间不断升级的冲突。 本来都以为，咳，瞎操心啥。床头吵架床...'}
+{'title': 'nodejs 环境搭建，全局安装 babel 库「Windows」', 'article link': 'https://www.aiyc.top/749.html', 'article description': 'nodejs 环境搭建，全局安装 babel 库「Windows」 因为操作 AST...'}
+{'title': '大规模异步新闻爬虫', 'article link': 'https://www.aiyc.top/748.html', 'article description': '目录 简单的百度新闻爬虫 实现一个更好的网络请求函数 实现功能强大、简洁易用的网址池...'}
+{'title': '密码保护：上网方法', 'article link': 'https://www.aiyc.top/745.html', 'article description': '无法提供摘要。这是一篇受保护的文章。'}
+{'title': '爬取二次元插画「Pixiv」，这篇就够啦！', 'article link': 'https://www.aiyc.top/743.html', 'article description': '哈喽，大家好！我是 Sakura，在此借助这个 AI悦创平台来投稿。我呢，是爬虫圈一...'}
+{'title': '为什么我们要学习编程？', 'article link': 'https://www.aiyc.top/731.html', 'article description': '1. 为什么需要学习编程？ 如今，学习编程的人分为两类，一类是程序员，另一类是期望成...'}
+{'title': '藏在正则表达式里的陷阱', 'article link': 'https://www.aiyc.top/728.html', 'article description': '前几天线上一个项目监控信息突然报告异常，上到机器上后查看相关资源的使用情况，发现 C...'}
+{'title': '和你聊聊哈希算法', 'article link': 'https://www.aiyc.top/726.html', 'article description': '你好，我是悦创。 今天我们不聊爬虫，我们聊聊哈希算法，我算法其实一直都很烂，最近觉得...'}
+{'title': 'JetBrains PyCharm Pro 2020.1 破解版（附永久破解激活方法） Python开发者必备的神器', 'article link': 'https://www.aiyc.top/720.html', 'article description': '众所周知，Python 语言是当下最热门的编程语言，广泛应用于数据分析、爬虫、机器学...'}
+{'title': '补充：为什么用 Python 写网络爬虫', 'article link': 'https://www.aiyc.top/719.html', 'article description': '原文链接：https://www.yuanrenxue.com/crawler/wh...'}
+{'title': '07-谷歌 Chrome F12 抓包分析', 'article link': 'https://www.aiyc.top/718.html', 'article description': '浏览器打开网页的过程就是爬虫获取数据的过程，两者是一样一样的。浏览器渲染的网页是丰富...'}
+{'title': '06-Session 与 Cookies', 'article link': 'https://www.aiyc.top/717.html', 'article description': '你好，我是悦创。 我们在浏览网站的过程中，经常会遇到需要登录的情况，而有些网页只有登...'}
+{'title': '05-爬虫的基本原理', 'article link': 'https://www.aiyc.top/715.html', 'article description': '你好，我是悦创。 我们可以把互联网比作一张大网，而爬虫（即网络爬虫）便是在网上爬行的...'}
+{'title': '04-Web 网页基础', 'article link': 'https://www.aiyc.top/714.html', 'article description': '你好，我是悦创。 当我们用浏览器访问网站时，页面各不相同，那么你有没有想过它为何会呈...'}
+{'title': '03-必知必会，掌握 HTTP 基本原理', 'article link': 'https://www.aiyc.top/713.html', 'article description': '你好，我是悦创。 本课时我们会详细讲解 HTTP 的基本原理，以及了解在浏览器中输入...'}
+{'title': '课前预习2：爬虫开发网络基本知识', 'article link': 'https://www.aiyc.top/712.html', 'article description': '1.HTTP与HTTPS 超文本传输协议HTTP协议被用于在Web浏览器和网站服务器...'}
+{'title': '02-网络爬虫的原理', 'article link': 'https://www.aiyc.top/711.html', 'article description': '你好，我是悦创。 通过前面的介绍，同学们已经弄清楚了爬虫是什么，它是干什么的。以及它...'}
+{'title': '课前预习1：理解网络爬虫', 'article link': 'https://www.aiyc.top/710.html', 'article description': '1.1 网络爬虫的定义 当今最大的网络是互联网，最大的爬虫就是各类搜索引擎，包括谷歌...'}
+{'title': '补充：从输入 url 到页面展现发生了什么？', 'article link': 'https://www.aiyc.top/709.html', 'article description': '你好，我是悦创。 从用户的角度出发，得益于各大浏览器厂商的不懈努力，这一切都显得已经...'}
+{'title': '01-什么是网络爬虫', 'article link': 'https://www.aiyc.top/706.html', 'article description': '你好，我是悦创。 互联网诞生之初，是为了让人们更容易的分享数据、交流通讯。互联网是桥...'}
+{'title': '02-分享：个人利用 Python 爬虫技术怎么挣钱-1万被动收入', 'article link': 'https://www.aiyc.top/700.html', 'article description': '你好，我是悦创。 今天我来分享一篇，猿人学的文章。原文链接：https://www....'}
+{'title': '01-小悦为什么写 Python 爬虫教程', 'article link': 'https://www.aiyc.top/698.html', 'article description': '你好，我是悦创。 对于 “爬虫”， 或许你只是听说过，或许已经有所了解。无论怎样，你...'}
+{'title': '00-为什么做这个系列爬虫私教入门的课程', 'article link': 'https://www.aiyc.top/696.html', 'article description': '你好，我是悦创。 这一篇呢，是我们的第零篇，主要给大家介绍一下这个课程的大致情况。 ...'}
+{'title': '补充：爬虫技术成就了这些商业公司的', 'article link': 'https://www.aiyc.top/690.html', 'article description': '原文链接：https://www.yuanrenxue.com/crawler/cr...'}
+{'title': '快收下这枚 Scrapy Requests 口味的爬虫“回魂丹”', 'article link': 'https://www.aiyc.top/673.html', 'article description': '本次 Chat 将带你来从 0 到 1 的学习网络爬虫。 一、Python 安装那些...'}
+{'title': '学员答疑贴', 'article link': 'https://www.aiyc.top/662.html', 'article description': '学员答疑帖 序号 学号 答疑帖链接 01 20200712 https://www....'}
+{'title': 'Python-基础课程结业测试_详细答案解析', 'article link': 'https://www.aiyc.top/652.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python中的可变数据类型有_...'}
+{'title': 'Python-基础课程结业测试', 'article link': 'https://www.aiyc.top/649.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python中的可变数据类型有_...'}
+{'title': '项目作业丨对话式对战游戏', 'article link': 'https://www.aiyc.top/647.html', 'article description': '对话式对战游戏 作业基本要求 完善老师课上演示的游戏 增加血条 增加敌人 增加攻击类...'}
+{'title': '章节测试九「Python-类_详细答案解析」', 'article link': 'https://www.aiyc.top/644.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python使用__&...'}
+{'title': '章节测试九「Python-类」', 'article link': 'https://www.aiyc.top/642.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python使用__&...'}
+{'title': '章节测试八「Python-函数_详细答案解析」', 'article link': 'https://www.aiyc.top/639.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python中定义函数的关键字是\t...'}
+{'title': 'Python 中 return 和 print 的作用及区别', 'article link': 'https://www.aiyc.top/637.html', 'article description': '一图胜千里 print的作用是输出数据到控制端,就是打印在你能看到的界面上 prin...'}
+{'title': '章节测试八「Python-函数」', 'article link': 'https://www.aiyc.top/635.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python中定义函数的关键字是\t...'}
+{'title': '章节测试七「Python-for循环_详细答案解析」', 'article link': 'https://www.aiyc.top/632.html', 'article description': '如果仅仅是用于控制循环次数，那么使用 for i in range(20) 和 fo...'}
+{'title': '章节测试七「Python-for循环」', 'article link': 'https://www.aiyc.top/630.html', 'article description': '如果仅仅是用于控制循环次数，那么使用 for i in range(20) 和 fo...'}
+{'title': '作业二丨创建一个运势预测软件', 'article link': 'https://www.aiyc.top/628.html', 'article description': '请按以下要求完成程序： 对用户进行提问并获取用户输入 当用户输入不同信息时程序输出不...'}
+{'title': '章节测试六「Python-while循环_详细答案解析」', 'article link': 'https://www.aiyc.top/625.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 while循环，只要while后面的条...'}
+{'title': '章节测试六「Python-while循环」', 'article link': 'https://www.aiyc.top/623.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 while循环，只要while后面的条...'}
+{'title': '章节测试五「Python-if条件判断_详细答案解析」', 'article link': 'https://www.aiyc.top/620.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python中用于表示逻辑与、逻辑或、...'}
+{'title': '章节测试五「Python-if条件判断」', 'article link': 'https://www.aiyc.top/618.html', 'article description': '此题无需在线作答，请在纸上作答后查看答案解析 Python中用于表示逻辑与、逻辑或、...'}
+{'title': '章节测试四「Python-字典和集合_详细答案解析 」', 'article link': 'https://www.aiyc.top/615.html', 'article description': 'Python支持使用字典的“键”作为下标来访问字典中的值。 A. √ B. X 答案...'}
+{'title': '章节测试四「Python-字典和集合」', 'article link': 'https://www.aiyc.top/613.html', 'article description': 'Python支持使用字典的“键”作为下标来访问字典中的值。 A. √ B. X 列表...'}
+{'title': '章节测试三「Python-列表和元组_详细答案解析」', 'article link': 'https://www.aiyc.top/609.html', 'article description': '列表、元组、字符串是Python的_____...'}
+{'title': '章节测试三「Python-列表和元组」', 'article link': 'https://www.aiyc.top/607.html', 'article description': '列表、元组、字符串是Python的_____...'}
+{'title': '章节测试二「Python-数字型和字符串_详细答案解析」', 'article link': 'https://www.aiyc.top/604.html', 'article description': '数字型和字符串类型的变量完全可以互相转换。 A. √ B. X 答案解析 正确答案：...'}
+{'title': '深入理解Python中的replace方法', 'article link': 'https://www.aiyc.top/602.html', 'article description': '先讨论一下它的用法： str = “abcdef” str.replace（old，...'}
+{'title': '章节测试二「Python-数字型和字符串」', 'article link': 'https://www.aiyc.top/597.html', 'article description': '数字型和字符串类型的变量完全可以互相转换。 A. √ B. X 加法运算符可以用来连...'}
+{'title': '作业1丨创建问答式简历程序', 'article link': 'https://www.aiyc.top/588.html', 'article description': '一个问答式简历程序 通过一句一句的提问获取用户的信息，生成一个格式化的简历 如例： ...'}
+{'title': '章节测试一答案「Python-变量和数据类型_详细答案解析」', 'article link': 'https://www.aiyc.top/583.html', 'article description': '你好，我是悦创。欢迎来到 Python 核心技术实战，这是你的第一次测试，加油！ 以...'}
+{'title': '章节测试一「Python-变量和数据类型」', 'article link': 'https://www.aiyc.top/581.html', 'article description': '你好，我是悦创。欢迎来到 Python 核心技术实战，这是你的第一次测试，加油！ 以...'}
+{'title': '01-Python3 环境搭建（Python+SublimeText3+Pycharm+Mac）', 'article link': 'https://www.aiyc.top/578.html', 'article description': '你好，我是悦创。 当你看见此视频的时候，表面你已经正式准备步入学习 Python 的...'}
+{'title': '我出了一个 7 天 Python 零基础入门的直播课「一对一」', 'article link': 'https://www.aiyc.top/552.html', 'article description': '课程内容： 序号 名称 第一章 变量和数据类型 01 第一节丨变量 02 第二节丨初...'}
+{'title': '「推荐」Python网络爬虫课程视频', 'article link': 'https://www.aiyc.top/507.html', 'article description': None}
+{'title': '灵眸', 'article link': 'https://www.aiyc.top/377.html', 'article description': '你好，我是悦创。 自此三年以来，我不曾或者不敢再提笔，希望一些被深藏。但，又或者是该...'}
+{'title': '多个站点同时抓取！怎么做到的？', 'article link': 'https://www.aiyc.top/229.html', 'article description': '你好，我是悦创。 好久没来更新公众号了，也感谢各位的陪伴。本篇也将开启我自己啃代理池...'}
+{'title': 'QtScrcpy 教程分享', 'article link': 'https://www.aiyc.top/228.html', 'article description': 'QtScrcpy可以通过USB(或通过TCP/IP)连接Android设备，并进行显...'}
+{'title': 'Python 使用元类', 'article link': 'https://www.aiyc.top/222.html', 'article description': '你好，我是悦创。 好久不见，最近在啃数学、Java、英语没有来更新公众号，那么今天就...'}
+{'title': 'Java 基本数据类型的更多语法', 'article link': 'https://www.aiyc.top/221.html', 'article description': '基本数据类型的更多语法 变量要先赋值后使用 计算并赋值运算符 数据类型自动转换 强制...'}
+{'title': '01-探寻 JavaScript 反爬虫的根本原因', 'article link': 'https://www.aiyc.top/219.html', 'article description': '你好，我是悦创。 本系列教程开始之前呢，我要先跟你探讨一下：反爬虫是什么 首先，反爬...'}
+{'title': 'Python中的队列', 'article link': 'https://www.aiyc.top/218.html', 'article description': '你好，我是悦创。 我们来看一下群友的问题： 那我来分享一下，队列的基本知识。 1. ...'}
+{'title': '简约不简单的匿名函数', 'article link': 'https://www.aiyc.top/216.html', 'article description': '来源：极客时间，本文仅供交流学习使用！如有侵权请联系删除。 你好，我是景霄。 上一节...'}
+{'title': '还没用异步，爬取就速度太快？更智能的延迟插件', 'article link': 'https://www.aiyc.top/214.html', 'article description': '1. 前言 要想“看见”，就得从蒙昧中睁开眼来。这才是最困难的地方，因为蒙昧就是我自...'}
+{'title': 'Typecho 主题推荐', 'article link': 'https://www.aiyc.top/212.html', 'article description': '这几天抛弃了笨重的 WordPress，跑过来更轻量化的 Typecho 呆了一段时...'}
+{'title': 'AI悦创·进化岛（交流-1）', 'article link': 'https://www.aiyc.top/211.html', 'article description': 'Django 与 Flask 个人观点： django 和 flask 是两种完全不...'}
+{'title': 'Fiddler设置手机代理', 'article link': 'https://www.aiyc.top/210.html', 'article description': '你好，我悦创。 这回我来补充一下群友遇到的问题： 首先需要点击 Tools->opt...'}
+{'title': '我 JS 逆向都没搞明白，就要学 App？', 'article link': 'https://www.aiyc.top/209.html', 'article description': '你好，我是悦创。 欢迎来到 AI悦创·进化岛 学会透过现象看本质，不被割韭菜！ 在我...'}
+{'title': 'Python yield', 'article link': 'https://www.aiyc.top/207.html', 'article description': '原文链接：1 不过，我进行了一些代码优化，可以直接看这篇。 首先我要吐槽一下，看程序...'}
+{'title': 'Python 中的 @property', 'article link': 'https://www.aiyc.top/206.html', 'article description': '你好，我是悦创。 在我啃代理池的时候呢，遇到了这个 @property 的装饰器，但...'}
+{'title': 'Python中下划线的5种含义', 'article link': 'https://www.aiyc.top/205.html', 'article description': '分享一篇文章：The Meaning of Underscores in Pytho...'}
+{'title': '两行代码设置 Scrapy UserAgent', 'article link': 'https://www.aiyc.top/199.html', 'article description': '摘要：代理 UserAgent 设置方法汇总。 许多网站设有反爬措施，要想顺利爬取，...'}
+{'title': 'Python 的 Retrying 库处理尝试多次请求', 'article link': 'https://www.aiyc.top/198.html', 'article description': '你好，我是悦创。 最近，我在搞代理池真是秃头，啃一个库就要啃好一会，接下来我又来啃一...'}
+{'title': '手摸手带你 App 爬虫入门', 'article link': 'https://www.aiyc.top/197.html', 'article description': '你好，我是悦创。 我将选取一个一款展示数据的 App 进行讲解，将会使用 Fiddl...'}
+{'title': 'Fiddler 补充（Fiddler 配置与基础操作）', 'article link': 'https://www.aiyc.top/196.html', 'article description': '2.1.1 基础介绍 Fiddler一旦启动就会自动开始工作，我们此时打开浏览器随便...'}
+{'title': 'Python 环境的安装', 'article link': 'https://www.aiyc.top/195.html', 'article description': '1.1 Python 安装 下载方法 进入官网：https://www.python...'}
+{'title': 'Requests 和 Scrapy 中的代理 IP 设置', 'article link': 'https://www.aiyc.top/194.html', 'article description': '摘要： Requests 和 Scrapy 中的代理 IP 设置方法。 目标测试网页...'}
+{'title': '介绍 appium 环境搭建的两种方法', 'article link': 'https://www.aiyc.top/193.html', 'article description': '1. Appium 移动端自动化测试工具介绍 Appium 是一个自动化测试开源工具...'}
+{'title': 'Packet Capture 抓包工具安装与介绍', 'article link': 'https://www.aiyc.top/192.html', 'article description': '你好，我是悦创。 在前面我给大家简单的介绍了一下 Fiddler 与 Mitmpro...'}
+{'title': 'Mitmproxy 在 Windows 操作系统中的使用', 'article link': 'https://www.aiyc.top/191.html', 'article description': '你好，我是悦创。 我本章来讲解一下如何在 Windows 里面操作 Mitmprox...'}
+{'title': 'Mitmproxy 在 Linux 操作系统中的使用', 'article link': 'https://www.aiyc.top/190.html', 'article description': '你好，我是悦创。 我本章来讲解一下如何在 Linux 里面操作 Mitmproxy ...'}
+{'title': '手把手教你 Charles 的使用「部分逆向的解决方法」', 'article link': 'https://www.aiyc.top/188.html', 'article description': '你好，我是悦创。 上次我们搞了 Mitmproxy 的 抓包利器：App 爬虫神器？...'}
+{'title': '高效存储 MongoDB 的用法', 'article link': 'https://www.aiyc.top/187.html', 'article description': '你好，我是悦创。 上节课我们学习了如何用 pyquery 提取 HTML 中的信息，...'}
+{'title': '是时候放下 print 了，试一试 logging 的强大吧！', 'article link': 'https://www.aiyc.top/186.html', 'article description': '你好，我是悦创。 这次呢？我给大家带来了 logging 的用法，这也是为以后我分享...'}
+{'title': 'Python 日志记录流程的整体框架', 'article link': 'https://www.aiyc.top/185.html', 'article description': '如图所示，整个日志记录的框架可以分为这么几个部分： Logger：即 Logger ...'}
+{'title': 'App 抓包利器：Charles 以及 App 爬虫心得', 'article link': 'https://www.aiyc.top/183.html', 'article description': '整理不易，欢迎关注公众号：AI悦创，如果你想快速入门点击此阅读： https://m...'}
+{'title': '移动端设置 Wifi 代理', 'article link': 'https://www.aiyc.top/182.html', 'article description': '下面详细介绍移动端设置 Wifi 代理为 Charles： 注：下面设置 Charl...'}
+{'title': 'Charles 的安装', 'article link': 'https://www.aiyc.top/181.html', 'article description': 'Charles是一个网络抓包工具，相比 Fiddler，其功能更为强大，而且跨平台支...'}
+{'title': '在夜神模拟器内部安装App', 'article link': 'https://www.aiyc.top/180.html', 'article description': '你好，我是悦创。 本章我将带你了解如何在夜神模拟器中安装 App，这时候有同学会问：...'}
+{'title': 'App 爬虫神器？Mitmproxy 快速带你入坑！', 'article link': 'https://www.aiyc.top/179.html', 'article description': '你好，我是悦创。 最近在搞 App 爬虫，不过万事入门难，我得自己研究研究 Mitm...'}
+{'title': '利用 GitHub 从零开始搭建一个博客', 'article link': 'https://www.aiyc.top/178.html', 'article description': '趁着还未开学之余，搭建了一下我个人的博客，之前使用用过 ```Django``` 开...'}
+{'title': '5 行代码，用 Python 批量做海量小姐姐的素描图', 'article link': 'https://www.aiyc.top/177.html', 'article description': '你好，我是悦创。这次呢，我给大家带来的是 50行代码，生成一张素描图。让自己也是一个...'}
+{'title': 'Mac 安装配置 Mitmproxy', 'article link': 'https://www.aiyc.top/176.html', 'article description': 'mitmproxy是一个可以用来抓取移动端数据包的工具，这个将移动端的数据包重定向到...'}
+{'title': '夜神模拟器安装&介绍', 'article link': 'https://www.aiyc.top/175.html', 'article description': '1. 多款模拟器的对比 你好，我是悦创。 接下来我们将来讲解，Android 模拟器...'}
+{'title': '对于爬虫的这几点，你没认真整理了解过', 'article link': 'https://www.aiyc.top/173.html', 'article description': '首先，爬虫不是我的本职工作，我爬虫是为了工作而准备的，但爬虫内容真的很多：静态页面、...'}
+{'title': 'Mitmproxy 安装', 'article link': 'https://www.aiyc.top/171.html', 'article description': '你好，我是悦创。 这节课我将给同学们讲解 Mitmproxy 抓包工具的安装及介绍，...'}
+{'title': 'App 爬虫神器？Mitmproxy 快速带你入坑！', 'article link': 'https://www.aiyc.top/170.html', 'article description': '你好，我是悦创。最近在搞 App 爬虫，不过万事入门难，我得自己研究研究 Mitmp...'}
+{'title': 'Fiddler 配置及简单操作', 'article link': 'https://www.aiyc.top/169.html', 'article description': '你好，我是悦创。 抓包软件名称 支持的操作系统 使用平台 调试难易程度 软件功能程度...'}
+{'title': '这么全的 Python 虚拟环境？不看可惜了！', 'article link': 'https://www.aiyc.top/168.html', 'article description': '你好，我是悦创。 最近一直再死磕深度学习识别验证码，但是在使用 Tensorflow...'}
+{'title': '还在手动插入 redis 数据？Python 带你解决！', 'article link': 'https://www.aiyc.top/167.html', 'article description': '你好，我是悦创。 又到了我死磕爬虫的时候了，我预计最近搞个 Cookies 池，不过...'}
+{'title': '快！给你推荐一个代码分享的新方式（附视频）', 'article link': 'https://www.aiyc.top/166.html', 'article description': '网址1：href=http://code.aiyc.top/ 网址2：href=ht...'}
+{'title': '验证码破解没有训练集？我教你生成一万个！', 'article link': 'https://www.aiyc.top/164.html', 'article description': '你好，我是悦创。 对于验证码破解，很多机构都停留于云打码、OCR 等基础破解方法，当...'}
+{'title': 'CentOS 6 和 CentOS 7 防火墙的关闭', 'article link': 'https://www.aiyc.top/163.html', 'article description': '你好，我是悦创。 1. CentOS 6.5 查看防火墙的状态： [linuxidc...'}
+{'title': '01- Java 初探', 'article link': 'https://www.aiyc.top/162.html', 'article description': '你好，我是悦创。 其实，学完 Python （其实没学完，知识点太多，库很多），然后...'}
+{'title': '将 Python 脚本打包成可执行文件', 'article link': 'https://www.aiyc.top/200.html', 'article description': 'Python是一个脚本语言，被解释器解释执行。它的发布方式： .py 文件：对于开源...'}
+{'title': '2.【红帽企业级虚拟化】RHEL系统安装', 'article link': 'https://www.aiyc.top/159.html', 'article description': '2.【红帽企业级虚拟化】RHEL系统安装 上一篇文章讲了RHEV的架构 链接：htt...'}
+{'title': 'Linux下pip使用国内源', 'article link': 'https://www.aiyc.top/153.html', 'article description': 'pip默认源是国外的网址，下载速度非常慢，将pip的源替换为国内的站点可以解决该问题...'}
+{'title': 'Pyppeteer 安装报错 ssl.SSLCertVerificationError 解决方法', 'article link': 'https://www.aiyc.top/152.html', 'article description': '1. 引言 曾经使用模拟浏览器操作（selenium + webdriver）来写爬...'}
+{'title': 'Proxy SwitchyOmega 安装', 'article link': 'https://www.aiyc.top/151.html', 'article description': None}
+{'title': 'Fiddler 安装', 'article link': 'https://www.aiyc.top/150.html', 'article description': None}
+{'title': 'mitmproxy', 'article link': 'https://www.aiyc.top/149.html', 'article description': '一、介绍 mitmproxy 是一个支持 HTTP 和 HTTPS 的抓包程序， 类...'}
+{'title': 'VIP 视频解析代码', 'article link': 'https://www.aiyc.top/147.html', 'article description': '你好，我是悦创。 公众号：AI悦创，我已经打包放在公众号后台。公众号后台回复：vip...'}
+{'title': '我们都是迷途的星星', 'article link': 'https://www.aiyc.top/141.html', 'article description': '用一种快乐的模糊性，来掩盖痛苦的精确性，那并不能真的帮助你。 最后你发现，自我骄纵的...'}
+{'title': '鸡汤杂谈', 'article link': 'https://www.aiyc.top/140.html', 'article description': '你好，我是悦创。 鸡汤杂谈： 如果一个人值得你去爱，那么这份爱情就值得你去等。 一个...'}
+{'title': '手札-11（京东实战手札）', 'article link': 'https://www.aiyc.top/139.html', 'article description': '你好，我是悦创。 先修知识：str.find():>>> Python find()...'}
+{'title': 'Python find()', 'article link': 'https://www.aiyc.top/138.html', 'article description': '手札-10 Python find()方法 描述 Python find() 方法检...'}
+{'title': 'if not 与 *args 和 **kwargs 的理解', 'article link': 'https://www.aiyc.top/137.html', 'article description': '手札-7 你好，我是悦创。 if not 的理解： l = None # 空 Fal...'}
+{'title': '恋爱先生语录', 'article link': 'https://www.aiyc.top/135.html', 'article description': '你好，我是悦创。 有些句子，其实应该知道，我最喜欢的是这句：当爱情还未到来之时，努力...'}
+{'title': '解析如何 10 分钟入门 Python 协程', 'article link': 'https://www.aiyc.top/134.html', 'article description': '内容提要： 既然已经有了多线程了，那么协程的优势体现在哪？ 协程的并发是利用系统的 ...'}
+{'title': '10 分钟入门 Python 协程', 'article link': 'https://www.aiyc.top/133.html', 'article description': '你好，我是悦创。 在 Python 3.4 时候引进了协程的概念，它使用一种单线程单...'}
+{'title': '1.【红帽企业级虚拟化】了解RHEV的架构', 'article link': 'https://www.aiyc.top/132.html', 'article description': '【红帽企业级虚拟化】了解RHEV的架构 RHEV简介 RHEV(Red Hat En...'}
+{'title': '手动释放 Linux 服务器内存', 'article link': 'https://www.aiyc.top/131.html', 'article description': '你好，我是悦创。 服务器运行过程中，使用 free -m 查看服务器内存时，经常会发...'}
+{'title': 'Python 把多个 MP4 合成一个视频', 'article link': 'https://www.aiyc.top/130.html', 'article description': '这两天群里有个小伙伴有一个需求, 就是把很多个视频文件 合并成一个. 期间也找了各种...'}
+{'title': '正则能匹配 txt 和 csv 文件当中的字符串吗？', 'article link': 'https://www.aiyc.top/127.html', 'article description': '你好，我是悦创。 有同学有此问：有兴趣的小伙伴关注公众号：AI悦创，加小编入群！ A...'}
+{'title': 'Python 系列特别篇 - 装饰器', 'article link': 'https://www.aiyc.top/126.html', 'article description': '你好，我是悦创。 这节课我们一起来学装饰器。 装饰器一直以来都是 Python 中很...'}
+{'title': '万字长文，带你入门异步编程', 'article link': 'https://www.aiyc.top/125.html', 'article description': '1. 初窥门径 你好，我是悦创。 异步模型是事件驱动模型的基础，而事件驱动的编程很多...'}
+{'title': 'PC Hook 从零开始搭建微信机器人', 'article link': 'https://www.aiyc.top/118.html', 'article description': '你好，我是悦创。 本文我将给大家讲解微信机器人的制作，首先要跟大家说的就是：机器人不...'}
+{'title': '「无接触实习」你准备好了吗？', 'article link': 'https://www.aiyc.top/117.html', 'article description': '你好，我是悦创。 最近我常常能看到类似的留言： “春招什么时候开始？”、“今年暑期需...'}
+{'title': '推荐阅读：刘润-怎么当好一个得到老师', 'article link': 'https://www.aiyc.top/115.html', 'article description': None}
+{'title': 'Python爬虫：用邮件通知爬虫异常情况', 'article link': 'https://www.aiyc.top/114.html', 'article description': '你好，我是悦创。 每当我们写爬虫的时候，短暂的代码运行与抓取如果期间出现异常情况，我...'}
+{'title': '常用邮箱 SMTP 服务器地址大全', 'article link': 'https://www.aiyc.top/113.html', 'article description': '\u3000\u3000 1. 阿里云邮箱（mail.aliyun.com）: POP3 服务器地址:p...'}
+{'title': 'ONE 在线实习', 'article link': 'https://www.aiyc.top/112.html', 'article description': '你好，我是悦创。 为了在线实习做个准备，我觉得我应该有个不错的自我介绍。或许，你不知...'}
+{'title': '爬虫私教课-实习僧', 'article link': 'https://www.aiyc.top/110.html', 'article description': '你好，我是悦创。 课程源码：课程源码修改成了多线程 ""&quo...'}
+{'title': '计算密集型和 IO 密集型', 'article link': 'https://www.aiyc.top/105.html', 'article description': '你好，我是悦创。 今天我来简单介绍一下：计算密集型和 IO 密集型 计算密集型 计算...'}
+{'title': '爬虫-抖音无水印视频下载', 'article link': 'https://www.aiyc.top/103.html', 'article description': '直接撸代码，复制即用 import re import requests class...'}
+{'title': 'Python 当中的自定义函数', 'article link': 'https://www.aiyc.top/102.html', 'article description': '你好，我是悦创。 实际工作生活中，我曾见到不少初学者编写的 Python 程序，他们...'}
+{'title': 'Java 作业（2）', 'article link': 'https://www.aiyc.top/101.html', 'article description': '你好，我是悦创。 一、选择题 A C D D D 二、简答题 多态：是具有表现多种形...'}
+{'title': 'Python 搭建量化交易系统', 'article link': 'https://www.aiyc.top/99.html', 'article description': '01|Python 安装那些事 1.1 Python 安装 https://www....'}
+{'title': 'Python 正则表达式详解（re 库）', 'article link': 'https://www.aiyc.top/98.html', 'article description': '我们接下来看一下什么是正则表达式，什么时候用到正则表达式。 那这里我们打开一个在线正...'}
+{'title': '简历不能怎么写？', 'article link': 'https://www.aiyc.top/97.html', 'article description': '你好，我是悦创。 在这段特殊时期，一些同学可能会面临重新求职，要开始准备简历了。 这...'}
+{'title': '本博客基于Handsome主题的一些小修改教程', 'article link': 'https://www.aiyc.top/96.html', 'article description': '说明：博客用Handsome主题也有一段时间了，体验还不错，特别适合做个人博客，而博...'}
+{'title': '爬虫实战合集', 'article link': 'https://www.aiyc.top/95.html', 'article description': 'https://www.zybuluo.com/Cleland/note/16820...'}
+{'title': 'Linux vi/vim', 'article link': 'https://www.aiyc.top/94.html', 'article description': '你好，我是悦创。 所有的 Unix Like 系统都会内建 vi 文书编辑器，其他的...'}
+{'title': 'Markdown高级用法(嵌套音视频)', 'article link': 'https://www.aiyc.top/93.html', 'article description': '前言 众所周知,markdown是一个很方便的编辑器了,基本的用法 比如 1.标题类...'}
+{'title': 'Js2Py 在 Python 中操作 Js', 'article link': 'https://www.aiyc.top/92.html', 'article description': '你好，我是悦创。 Js2Py 你好，我是悦创。 简介：纯Python JavaScr...'}
+{'title': '罗永浩的1.1亿，薇娅的卖火箭，蛋蛋的4.8亿，直播魔幻夜埋下了什么', 'article link': 'https://www.aiyc.top/91.html', 'article description': '4月1日的晚上有些热闹、冲动甚至喧嚣，绝对称得上直播圈“魔幻狂欢之夜”。罗永浩在抖音...'}
+{'title': '今天网站都变成灰色了，这其中是怎么实现的？', 'article link': 'https://www.aiyc.top/90.html', 'article description': '今天网站都变成灰色了，这其中是怎么实现的？ “ 阅读本文大概需要 7 分钟。 ” 今...'}
+{'title': '我们都是迷途的星星', 'article link': 'https://www.aiyc.top/89.html', 'article description': '用一种快乐的模糊性，来掩盖痛苦的精确性，那并不能真的帮助你。 最后你发现，自我骄纵的...'}
+{'title': '心若自由  ·  方为之诺', 'article link': 'https://www.aiyc.top/88.html', 'article description': '你好，我是悦创。 脚下的鹅软石，踩起来“ 脚底传来微痛但又不失在痛中的舒适”真正的舒...'}
+{'title': '给梦想架把梯子吧！', 'article link': 'https://www.aiyc.top/87.html', 'article description': '你好，我是悦创。 许我三千笔墨，画你绝世倾城 如果给梦想搭一把梯子，梦会轻轻走进我们...'}
+{'title': '爬虫基础回顾-requests', 'article link': 'https://www.aiyc.top/86.html', 'article description': '1. requests 1.1 为什么要学 requests，而不是 urllib ...'}
+{'title': 'Python3 错误和异常', 'article link': 'https://www.aiyc.top/85.html', 'article description': '你好，我是悦创。 作为 Python 初学者，在刚学习 Python 编程时，经常会...'}
+{'title': '肺炎疫情实时动态播报数据抓取代码小示例', 'article link': 'https://www.aiyc.top/83.html', 'article description': '你好，我是悦创。 网易疫情数据抓取，简单代码展示： # -*- coding: ut...'}
+{'title': 'Windows pip 换源', 'article link': 'https://www.aiyc.top/82.html', 'article description': '你好，我是悦创。 1.进入C盘用户文件夹，新建名为 pip 的目录，在pip目录下新...'}
+{'title': '悦创带你现场 coding 小游戏', 'article link': 'https://www.aiyc.top/81.html', 'article description': '目标： 游戏名称：主角打怪-文字游戏 一个玩家、一个敌人 敌人和玩家互相攻击 玩家可...'}
+{'title': '00-开篇——课程介绍', 'article link': 'https://www.aiyc.top/79.html', 'article description': '你好，我是悦创。 这一篇呢，是我们的第零篇，主要给大家介绍一下这个课程的大致情况。 ...'}
+{'title': '面试”作弊“，不看绝对会后悔！', 'article link': 'https://www.aiyc.top/78.html', 'article description': '你好，我是悦创。 「各大公司的」2020年春招也陆续的正式启动啦，如果你是2020年...'}
+{'title': '01 开篇词：你知道什么是算法吗？', 'article link': 'https://www.aiyc.top/77.html', 'article description': '你好，我是悦创。 每章一句：勤能补拙是良训，一分辛劳一分才。——华罗庚 1. 算法的...'}
+{'title': '教了一年少儿编程，说说感想和体验', 'article link': 'https://www.aiyc.top/76.html', 'article description': '近两三年，少儿编程教育迅速崛起，成了 STEM 教育的主要代表。 缘起 少儿编程这个...'}
+{'title': 'MongoDB 实战教程：数据库与集合的 CRUD 操作篇', 'article link': 'https://www.aiyc.top/75.html', 'article description': '你好，我是悦创。 公众号：AI悦创 简介 MongoDB 是非关系型数据库（NoSQ...'}
+{'title': '无题', 'article link': 'https://www.aiyc.top/74.html', 'article description': None}
+{'title': 'Java 代码作业', 'article link': 'https://www.aiyc.top/73.html', 'article description': '一：题目 你好，我是悦创。 定义三个类： 父类 GeometricObject 代表...'}
+{'title': 'Typecho 设置复制提醒 handsome 主题', 'article link': 'https://www.aiyc.top/72.html', 'article description': '你好，我是悦创。 自定义 js document.body.oncopy = fun...'}
+{'title': '常用配置之 Apache 伪静态', 'article link': 'https://www.aiyc.top/71.html', 'article description': '你好，我是悦创。 公众号：AI悦创。 说明：伪静态是 SEO 里面曾经非常重要的一个...'}
+{'title': '向 Excel 说再见，神级编辑器统一表格与 Python', 'article link': 'https://www.aiyc.top/68.html', 'article description': '你好，我是悦创。 很多开发者说自从有了 Python/Pandas，Excel 都不...'}
+{'title': 'Java 作业', 'article link': 'https://www.aiyc.top/62.html', 'article description': '你好，我悦创。 今天我来分享一下刚刚开始学的 Java 作业代码，数据。原先博主一直...'}
+{'title': '离散数学手札', 'article link': 'https://www.aiyc.top/59.html', 'article description': '1. 否定连结词 p ┐p T F F T 2. 合取连结词 表示方法一： p q ...'}
+{'title': 'Python 每天定时运行某程序代码', 'article link': 'https://www.aiyc.top/57.html', 'article description': '02-Python每天定时运行某程序代码 你好，我是悦创。这篇文章主要介绍了pyth...'}
+{'title': '计算密集型和 IO 密集型', 'article link': 'https://www.aiyc.top/56.html', 'article description': '你好，我是悦创。今天我来简单介绍一下：计算密集型和 IO 密集型 计算密集型 计算密...'}
+{'title': 'Python多线程与多线程中 join() 的用法', 'article link': 'https://www.aiyc.top/55.html', 'article description': 'Python多线程与多进程中 join() 方法的效果是相同的。 下面仅以多线程为例...'}
+{'title': '章节测试二答案', 'article link': 'https://www.aiyc.top/54.html', 'article description': '1.数字型和字符串类型的变量完全可以互相转换。 A. 正确 B. 错误 答案解析 正...'}
+{'title': '章节测试二', 'article link': 'https://www.aiyc.top/53.html', 'article description': '1.数字型和字符串类型的变量完全可以互相转换。 A. 正确 B. 错误 2.加法运算...'}
+{'title': '章节测试一答案', 'article link': 'https://www.aiyc.top/52.html', 'article description': '你好，我是悦创。欢迎来到 Python 核心技术实战，这是你的第一次测试，加油！ 1...'}
+{'title': '章节测试一', 'article link': 'https://www.aiyc.top/51.html', 'article description': '章节测试一 你好，我是悦创。欢迎来到 Python 核心技术实战，这是你的第一次测试...'}
+{'title': '欢迎投稿', 'article link': 'https://www.aiyc.top/34.html', 'article description': '作者：黄家宝 • 2020-03-25 一个好的网站能给你带来无尽的受益，无比的欣喜...'}
+{'title': '必知必会，掌握 HTTP 基本原理', 'article link': 'https://www.aiyc.top/32.html', 'article description': '本课时我们会详细讲解 HTTP 的基本原理，以及了解在浏览器中输入 URL 到获取网...'}
+{'title': '关于我', 'article link': 'https://www.aiyc.top/30.html', 'article description': '我是黄家宝，是这个博客的主人。你也可以叫我 AI悦创,我是一名程序员，也是一名跆拳道...'}
+{'title': '3.整数，算术运算符，比较运算符，赋值运算符', 'article link': 'https://www.aiyc.top/2017.html', 'article description': '整数 整数型 a = 1 浮点型 a = 1.0 算术运算符 + ：加法运算 _ ：...'}
+{'title': '2.python 变量&数据类型', 'article link': 'https://www.aiyc.top/2016.html', 'article description': '变量 变量命名规范：可以是大写字母，小写字母，大小写字母数字混合，下划线，不能以数字...'}
+{'title': '1.学习python编程必备软件', 'article link': 'https://www.aiyc.top/2015.html', 'article description': '学习python编程必备软件 PyCharm 编写python IDE 下载地址：h...'}
+{'title': '04-【久远讲算法】链表——实现无序列表', 'article link': 'https://www.aiyc.top/2009.html', 'article description': '你好，我是久远，上周开始我们算是正式入门了数据结构，进行了数组的讲解。 我们现在来总...'}
+{'title': '【久远讲算法3】数组——最简单的数据结构', 'article link': 'https://www.aiyc.top/2003.html', 'article description': '前言： 前面两篇文章，我们对算法以及时空复杂度进行了详细的讲解，但是，这其实是远远不...'}
+{'title': 'Mutex/Threadpool', 'article link': 'https://www.aiyc.top/1999.html', 'article description': 'There is a concept called a "lock" in mult...'}
+{'title': '【久远讲算法】 什么是空间复杂度', 'article link': 'https://www.aiyc.top/1991.html', 'article description': '你好，我是久远，这周我们继续聊算法，接着上次的时间复杂度，我们进行关于空间复杂度的讲...'}
+{'title': 'AI悦创|Clash使用细则', 'article link': 'https://www.aiyc.top/1982.html', 'article description': '你好，我是悦创。 因为翻墙，有些国内网站有时候会很慢或者进不去，这个时候你应该退出翻...'}
+{'title': '手把手搭建VuePress文档', 'article link': 'https://www.aiyc.top/1981.html', 'article description': '你好，我悦创。 原本想用 gitbook 实现流沙团队文旦，奈何出现一堆奇奇怪怪的 ...'}
+{'title': 'gitbook的入坑之路', 'article link': 'https://www.aiyc.top/1980.html', 'article description': '你好，我是悦创。 安装 gitbook 教程很多，我这里就不详细展开了，可以点击这个...'}
